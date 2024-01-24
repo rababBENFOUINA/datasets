@@ -1,0 +1,1235 @@
+Book_Id,book_Title,Author_Name,ratings_count,Avg_Rating,Publish_year,Edition,Pages_no,Book_language,Reviews
+0,Algorithms to Live By: The Computer Science of Human Decisions,Brian Christian ,20493.00,4.14,2016,46,368,English,1962
+1,iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer Co  Founded Apple and Had Fun Doing It,Steve Wozniak ,16529.00,3.81,2006,37,313,English,794
+2,Code: The Hidden Language of Computer Hardware and Software,Charles Petzold,7052.00,4.40,1999,21,400,English,575
+3,The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage,Clifford Stoll,10386.00,4.24,1989,28,399,English,839
+4,Hackers: Heroes of the Computer Revolution,Steven Levy ,7207.00,4.14,1984,4,464,English,416
+5,Structure and Interpretation of Computer Programs,Harold Abelson ,4248.00,4.46,1984,23,657,English,173
+6,Hackers & Painters: Big Ideas from the Computer Age,Paul Graham ,8203.00,4.06,2004,16,272,English,430
+7,The Emperor's New Mind: Concerning Computers Minds and the Laws of Physics,Roger Penrose ,6317.00,3.88,1989,47,640,English,215
+8,The Most Human Human: What Talking with Computers Teaches Us About What It Means to Be Alive,Brian Christian ,4132.00,3.93,2011,22,303,English,439
+9,The Age of Spiritual Machines: When Computers Exceed Human Intelligence,Ray Kurzweil,4052.00,3.90,1998,34,388,English,266
+10,The Art of Computer Programming Volume 1: Fundamental Algorithms,Donald Ervin Knuth,1731.00,4.37,1973,17,672,English,45
+11,Concrete Mathematics: A Foundation for Computer Science,Ronald L. Graham ,1766.00,4.33,1988,11,672,English,27
+12,Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age,Michael A. Hiltzik,1905.00,4.12,1999,14,480,English,148
+13,Computer Science With C++ Concepts File Handling Data Structures Vol. I and II,Sumita Arora,550.00,4.11,1999,1,854,English,26
+14,Computer Science With Python (textbook XII),Sumita Arora,474.00,3.72,2008,1,870,English,48
+15,Computer Science with C++ for Class XI,Sumita Arora,526.00,4.06,2009,1,890,English,26
+16,Computer Networks,Andrew S. Tanenbaum,2122.00,4.10,1981,12,912,English,101
+17,Computer Applications: A Textbook for Class IX,Sumita Arora,604.00,3.76,2020,1,552,English,67
+18,Computer Fundamentals and Programming in C,Reema Thareja,494.00,4.09,2012,2,547,English,39
+19,Automation Production Systems and Computer  Integrated Manufacturing,Mikell P. Groover,524.00,4.17,1980,18,815,English,40
+20,The Art of Computer Programming Volumes 1  3 Boxed Set,Donald Ervin Knuth,726.00,4.50,1998,1,896,English,36
+21,Computer Architecture and Organization,John P. Hayes,420.00,3.88,1988,9,604,English,32
+22,Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos,Seth Lloyd,1918.00,4.02,2006,17,240,English,97
+23,Fire in the Valley: The Making of the Personal Computer,Paul Freiberger ,1163.00,4.14,1984,7,463,English,55
+24,The Glass Cage: How Our Computers Are Changing Us,Nicholas Carr ,1959.00,3.75,2014,32,288,English,297
+25,Computer Networking: A Top  Down Approach,James F. Kurose ,1811.00,4.04,2000,13,880,English,96
+26,What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry,John Markoff,1013.00,3.82,2005,8,310,English,104
+27,Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers,John MacCormick ,1328.00,3.87,2011,16,219,English,130
+28,The Elements of Computing Systems: Building a Modern Computer from First Principles,Noam Nisan,690.00,4.54,2005,7,325,English,52
+29,The Psychology of Computer Programming,Gerald M. Weinberg,531.00,4.10,1971,10,292,English,54
+30,The Venetian's Wife: A Strangely Sensual Tale of a Renaissance Explorer a Computer and a Metamorphosis,Nick Bantock,1917.00,3.90,1996,6,132,English,149
+31,Computer Science with Python CBSE XI: Textbook for CBSE Class 11,Preeti Arora,311.00,3.97,2019,1,424,English,39
+32,Mindstorms: Children Computers And Powerful Ideas,Seymour Papert,678.00,4.32,1980,12,252,English,81
+33,Insanely Great: The Life and Times of Macintosh the Computer that Changed Everything,Steven Levy ,1150.00,3.96,1993,8,336,English,49
+34,Computer Science Distilled: Learn the Art of Solving Computational Problems,Wladston Ferreira Filho ,702.00,4.09,2017,4,180,English,97
+35,The Computer and the Brain,John von Neumann ,548.00,3.86,1958,18,112,English,58
+36,The Fourth Age: Smart Robots Conscious Computers and the Future of Humanity,Byron Reese,681.00,4.05,2018,11,320,English,87
+37,The Man Who Knew Too Much: Alan Turing and the Invention of the Computer,David Leavitt,1180.00,3.46,2006,23,336,English,156
+38,Computer Systems: A Programmer's Perspective,Randal E. Bryant ,810.00,4.43,2002,26,978,English,40
+39,Computer Architecture: A Quantitative Approach,John L. Hennessy ,1011.00,4.10,1990,38,704,English,32
+40,The Art of Computer Programming Volume 2: Seminumerical Algorithms,Donald Ervin Knuth,489.00,4.42,1969,12,784,English,6
+41,The Art of Computer Programming: Volume 3: Sorting and Searching,Donald Ervin Knuth,479.00,4.39,1973,14,800,English,7
+42,Turn Your Computer Into a Money Machine: How to make money from home and grow your income fast with no prior experience! Set up within a week!,Avery Breyer ,564.00,3.77,2015,3,81,English,91
+43,The Digital Doctor: Hope Hype and Harm at the Dawn of Medicine's Computer Age,Robert M. Wachter,846.00,4.16,2015,5,352,English,79
+44,Sid Meier's Memoir!: A Life in Computer Games,Sid Meier,561.00,4.17,2020,5,286,English,115
+45,Computer Organization & Design: The Hardware/Software Interface,David A. Patterson ,1536.00,3.97,1993,49,965,English,59
+46,But How Do It Know? The Basic Principles of Computers for Everyone,J. Clark Scott,596.00,4.45,2009,2,221,English,44
+47,The Design of Design: Essays from a Computer Scientist,Frederick P. Brooks Jr.,564.00,3.76,2010,9,421,English,47
+48,Why I Am Not Going to Buy a Computer,Wendell Berry,750.00,3.60,1987,4,48,English,165
+49,Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer,Stewart Brand,686.00,4.09,1999,13,208,English,75
+50,APC Understanding Computer Applications with BlueJ ICSE Class 10,Vijay Kumar Pandey & Dilip Kumar Dey,179.00,3.56,2013,1,500,English,11
+51,Cyberpunk: Outlaws and Hackers on the Computer Frontier,Katie Hafner ,755.00,3.83,1991,9,400,English,29
+52,Concepts Techniques and Models of Computer Programming,Peter Van Roy ,235.00,4.13,2004,3,936,English,14
+53,Computer Science with Python: Textbook for CBSE Class 12,Preeti Arora,188.00,3.87,2019,1,464,English,25
+54,The Computer Connection,Alfred Bester,1079.00,3.48,1975,20,272,English,78
+55,Grace Hopper: Queen of Computer Code,Laurie Wallmark ,919.00,4.38,2017,3,48,English,197
+56,The Art of Computer Programming Volumes 1  4a Boxed Set,Donald Ervin Knuth,211.00,4.77,2011,1,3168,English,5
+57,Racing the Beam: The Atari Video Computer System,Nick Montfort ,681.00,4.09,2009,6,180,English,84
+58,Python Programming for Beginners: An Introduction to the Python Computer Language and Computer Programming (Python Python 3 Python Tutorial),Jason Cannon ,203.00,3.88,2014,4,164,English,16
+59,Computer Science with Python for Class 12 ,Sumita Arora,214.00,3.92,2019,1,550,English,28
+60,Artificial Unintelligence: How Computers Misunderstand the World,Meredith Broussard ,369.00,3.76,2018,10,248,English,69
+61,Cyber Security (with CD): Understanding Cyber Crimes Computer Forensics and Legal Perspectives,Nina Godbole ,116.00,3.97,2011,1,636,English,19
+62,Software Engineering (International Computer Science Series),Ian Sommerville,838.00,3.76,1982,45,759,English,31
+63,Computer System Architecture,M. Morris Mano,352.00,3.82,1976,12,544,English,22
+64,Systems Programming (McGraw  Hill computer science series),John J. Donovan ,159.00,3.80,1972,4,480,English,7
+65,Advanced Computer Architecture: Parallelism Scalability Programmability,Kai Hwang,178.00,4.15,1992,2,672,English,12
+66,The Mysterious Affair at Olivetti: IBM the CIA and the Cold War Conspiracy to Shut Down Production of the World's First Desktop Computer,Meryle Secrest,102.00,3.17,2019,6,320,English,23
+67,Discrete Mathematical Structures with Applications to Computer Science,Jean  Paul Tremblay ,147.00,3.84,1975,2,606,English,9
+68,Interaction Design: Beyond Human  Computer Interaction,Yvonne Rogers ,745.00,3.72,2001,12,773,English,43
+69,A History of Pictures: From the Cave to the Computer Screen,David Hockney ,324.00,4.37,2016,13,360,English,47
+70,Computer Graphics: Principles and Practice,James D. Foley ,342.00,4.17,1990,7,1200,English,10
+71,Hacking: Computer Hacking Beginners Guide How to Hack Wireless Network Basic Security and Penetration Testing Kali Linux Your First Hack,Alan T. Norman,142.00,3.71,2016,3,154,English,11
+72,Digital Logic & Computer Design,M. Morris Mano,189.00,4.07,1979,5,612,English,20
+73,Persuasive Technology: Using Computers to Change What We Think and Do,B.J. Fogg,267.00,3.84,2002,6,312,English,25
+74,Fundamentals of Computers,V. Rajaraman,148.00,3.93,2011,6,500,English,6
+75,Mathematical Elements for Computer Graphics,David F. Rogers ,140.00,4.07,1976,3,611,English,13
+76,Computer Organization and Architecture: Designing for Performance,William Stallings,541.00,4.06,1987,46,815,English,23
+77,The Cosmic Computer,H. Beam Piper,1125.00,3.72,1963,6,249,English,112
+78,Music Theory for Computer Musicians (Computer Musicians 1),Michael Hewitt,324.00,4.23,2008,4,336,English,13
+79,What Computers Still Can't Do: A Critique of Artificial Reason,Hubert L. Dreyfus,179.00,4.15,1972,4,408,English,13
+80,Wizards Don't Need Computers (The Adventures of the Bailey School Kids #20),Debbie Dadey ,682.00,3.72,1996,6,63,English,19
+81,The New Turing Omnibus: 66 Excursions In Computer Science,A.K. Dewdney,311.00,3.89,1989,4,480,English,16
+82,The Computational Beauty of Nature: Computer Explorations of Fractals Chaos Complex Systems and Adaptation,Gary William Flake,249.00,4.37,1998,4,514,English,17
+83,The Pattern on the Stone: The Simple Ideas that Make Computers Work,William Daniel Hillis,607.00,4.04,1998,19,176,English,63
+84,The Planiverse: Computer Contact with a Two  Dimensional World,A.K. Dewdney,441.00,4.18,1983,12,247,English,46
+85,Structured Computer Organization,Andrew S. Tanenbaum,488.00,3.98,1976,37,669,English,15
+86,Cad/CAM: Computer  Aided Design and Manufacturing,Mikell P. Groover,182.00,4.02,1983,3,512,English,7
+87,Things a Computer Scientist Rarely Talks About,Donald Ervin Knuth,227.00,3.97,2001,2,257,English,31
+88,Testing Computer Software,Cem Kaner ,273.00,3.86,1987,19,480,English,24
+89,Computer Power and Human Reason: From Judgment to Calculation,Joseph Weizenbaum,192.00,4.31,1976,10,300,English,22
+90,Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series),Zed A. Shaw,374.00,3.91,2017,9,320,English,41
+91,My Creepy Computer / There's a Ghost in My Phone! (Mr Midnight 4),James Lee,411.00,4.22,2015,2,128,English,16
+92,Graph Theory With Applications To Engineering And Computer Science,Narsingh Deo,128.00,4.02,2004,2,478,English,8
+93,The Universal History of Numbers: From Prehistory to the Invention of the Computer,Georges Ifrah,211.00,4.17,1981,9,656,English,15
+94,Decoding the Heavens: A 2 000  Year  Old Computer and the Century  Long Search to Discover Its Secrets,Jo Marchant,446.00,4.05,2009,16,328,English,81
+95,Computers and Intractability: A Guide to the Theory of NP  Completeness,Michael R. Garey ,192.00,4.14,1979,2,340,English,8
+96,Arthur's Computer Disaster: An Arthur Adventure (Arthur Adventure Series),Marc Brown,591.00,3.94,1997,12,32,English,34
+97,The Universal Computer: The Road from Leibniz to Turing,Martin D. Davis,385.00,4.08,2000,18,257,English,48
+98,Theory Of Computer Science: Automata Languages And Computation,K.L.P. Mishra ,70.00,3.97,2010,1,436,English,7
+99,Ada's Ideas: The Story of Ada Lovelace the World's First Computer Programmer,Fiona Robinson,448.00,4.10,2016,5,40,English,99
+100,Takedown: The Pursuit and Capture of Kevin Mitnick America's Most Wanted Computer Outlaw By the Man Who Did It,Tsutomu Shimomura ,581.00,3.45,1996,11,336,English,31
+101,Computer Science: A Structured Approach Using C++,Behrouz A. Forouzan ,126.00,3.94,1999,4,1022,English,10
+102,OK Computer,Dai Griffiths,464.00,2.71,2004,4,123,English,59
+103,Computer Architecture and Parallel Processing,Kai Hwang ,94.00,4.09,2020,4,846,English,7
+104,Infinite Loop: How Apple the World's Most Insanely Great Computer Company Went Insane,Michael S. Malone,277.00,4.25,1999,4,597,English,9
+105,Python Programming: An Introduction to Computer Science,John Zelle,427.00,4.01,2003,15,517,English,28
+106,A Computer Called Katherine: How Katherine Johnson Helped Put America on the Moon,Suzanne Slade ,475.00,4.35,2019,5,40,English,92
+107,Mathematics for Computer Science,Eric Lehman ,70.00,3.84,2010,6,1048,English,9
+108,The Second Self: Computers & the Human Spirit (20th Anniversary),Sherry Turkle,169.00,3.99,1984,9,372,English,8
+109,Computer Engineering: Hardware Design,M. Morris Mano,91.00,3.79,1988,1,434,English,4
+110,Digital Computer Electronics,Albert Paul Malvino,146.00,4.14,1977,7,522,English,12
+111,The Mystery in the Computer Game (The Boxcar Children 78),Gertrude Chandler Warner,407.00,3.95,2000,24,128,English,10
+112,Wetware: A Computer in Every Living Cell,Dennis Bray,201.00,3.88,2009,4,280,English,24
+113,Are You Living In a Computer Simulation?,Nick Bostrom ,182.00,4.30,2003,2,14,English,20
+114,Turing's Vision: The Birth of Computer Science,Chris Bernhardt,171.00,4.27,2016,7,208,English,28
+115,Computer Lib/Dream Machines,Ted Nelson,112.00,4.49,1974,4,336,English,23
+116,Computer Love Inc. (Computer Love Inc. #1),Kurt Hansen ,11.00,3.64,2013,2,223,English,5
+117,Cancel Kindle Unlimited: How to Cancel Kindle Unlimited ) Step By Step With Screenshots and FREE GIFT,Computer Nerds,40.00,4.08,2020,1,11,English,6
+118,Longman Complete Course for the TOEFL Test: Preparation for the Computer and Paper Tests (Student Book + CD  ROM with Answer Key),Deborah Phillips,129.00,4.16,2000,8,640,English,8
+119,How Computers Work,Ron White ,329.00,3.89,1992,26,464,English,26
+120,Artificial Life: A Report from the Frontier Where Computers Meet Biology,Steven Levy ,300.00,3.99,1992,6,400,English,14
+121,The Plug  In Drug: Television Computers and Family Life,Marie Winn,251.00,3.83,1977,7,352,English,42
+122,Superminds: The Surprising Power of People and Computers Thinking Together,Thomas W. Malone,178.00,3.54,2018,2,384,English,18
+123,Computer Applications: A Textbook for Class X,Sumita Arora,69.00,3.64,2014,1,500,English,9
+124,Alicia's Misadventures in Computer Land,Belinda Vasquez Garcia ,15.00,3.47,2005,3,190,English,5
+125,Computer Systems Organization and Architecture,John D. Carpinelli,80.00,4.00,2000,1,608,English,3
+126,The Invisible Computer: Why Good Products Can Fail the Personal Computer Is So Complex and Information Appliances Are the Solution,Donald A. Norman,243.00,3.90,1998,6,320,English,11
+127,Peter Norton's Introduction to Computers,Peter Norton,110.00,3.76,1994,13,656,English,7
+128,Multiple Choice Questions in Computer Science,Ela Kumar,66.00,3.62,2008,1,472,English,9
+129,I Love My Computer Because My Friends Live in It: Stories from an Online Life,Jess Kimball Leslie ,181.00,3.28,2017,6,240,English,48
+130,The Difference Engine : Charles Babbage And The Quest To Build The First Computer,Doron Swade,262.00,3.75,2000,4,342,English,39
+131,Basic Category Theory for Computer Scientists,Benjamin C. Pierce,133.00,3.56,1991,3,100,English,18
+132,Dungeons & Dreamers: A Story of how Computer Games Created a Global Community,Brad King ,370.00,3.62,2003,5,278,English,28
+133,Computer Science: An Overview,J. Glenn Brookshear,311.00,3.76,1985,35,599,English,23
+134,Fundamental Concepts of Computer System,Asiya Sultan Ali and Amena Nudrat,108.00,4.02,2020,1,500,English,21
+135,The Man Who Invented the Computer: The Biography of John Atanasoff Digital Pioneer,Jane Smiley ,287.00,3.53,2010,6,256,English,57
+136,The Computer Music Tutorial,Curtis Roads,191.00,4.39,1996,3,1256,English,10
+137,Schrödinger's Killer App: Race to Build the World's First Quantum Computer,Jonathan P. Dowling,33.00,3.73,2013,4,453,English,11
+138,Understanding Computers and Cognition: A New Foundation for Design,Terry Winograd ,162.00,4.16,1986,3,207,English,15
+139,Rebels Against the Future: The Luddites and Their War on the Industrial Revolution: Lessons for the Computer Age,Kirkpatrick Sale,140.00,3.81,1995,4,336,English,18
+140,Rebels Against the Future: The Luddites and Their War on the Industrial Revolution: Lessons for the Computer Age,Kirkpatrick Sale,140.00,3.81,1995,4,336,English,18
+141,FAB: The Coming Revolution on Your Desktop–from Personal Computers to Personal Fabrication,Neil Gershenfeld,212.00,3.73,2005,7,278,English,18
+142,Fundamentals of Computer Algorithms,Ellis Horowitz ,114.00,3.87,1978,6,626,English,6
+143,The Art of Computer Programming Volume 4A: Combinatorial Algorithms Part 1,Donald Ervin Knuth,81.00,4.47,2011,7,912,English,4
+144,How to Think Like a Computer Scientist: Learning with Python,Allen B. Downey ,1291.00,4.11,2002,45,288,English,134
+145,Cambridge International as and a Level Computer Science Revision Guide,Tony Piper,41.00,4.29,2016,1,328,English,4
+146,Eniac: The Triumphs and Tragedies of the World's First Computer,Scott McCartney,363.00,3.79,1999,6,262,English,45
+147,Ada the Enchantress of Numbers: A Selection from the Letters of Lord Byron's Daughter and Her Description of the First Computer,Ada Lovelace (Letters) ,105.00,3.34,1992,3,439,English,18
+148,The End of The Computer (Thunder Valley Trilogy #1),Andre Mikhailovich Solonitsyn ,73.00,4.00,2011,2,355,English,21
+149,Computer: A History of the Information Machine,Martin Campbell  Kelly ,211.00,3.87,1996,16,360,English,24
+150,Computer Science with Python: Textbook for CBSE Class 12,Preeti Arora,80.00,4.26,2018,2,496,English,6
+151,Deep Learning for Computer Vision with Python — Starter Bundle,Adrian Rosebrock,70.00,4.39,2017,1,330,English,6
+152,I Am Error: The Nintendo Family Computer / Entertainment System Platform,Nathan Altice ,143.00,4.29,2015,3,440,English,23
+153,Elements of Power System Analysis (Mcgraw Hill Series in Electrical and Computer Engineering),William D. Stevenson,89.00,3.97,1975,5,436,English,3
+154,The Fires: How a Computer Formula Big Ideas and the Best of Intentions Burned Down New York City  and Determined the Future of Cities,Joe Flood ,231.00,4.05,2010,5,336,English,37
+155,Coding the Matrix: Linear Algebra through Computer Science Applications,Philip N. Klein ,115.00,4.23,2013,2,528,English,5
+156,Quantum Computing for Computer Scientists,Noson S. Yanofsky ,86.00,4.21,2008,7,384,English,11
+157,Computer Fundamentals,P.K. Sinha,76.00,3.79,2004,2,350,English,5
+158,Data and Computer Communications,William Stallings,274.00,3.88,1985,35,878,English,17
+159,Counter Hack Reloaded: A Step  By  Step Guide to Computer Attacks and Effective Defenses,Edward Skoudis ,217.00,4.00,2005,4,748,English,4
+160,Understanding I.S.C. Computer Science Class XII,V.K. Pandey ,49.00,4.16,2019,1,450,English,5
+161,Theory of Computer Science: Automata Languages and Computation 3/E,K.L.P. Mishra ,64.00,4.00,2013,1,436,English,1
+162,Solutions Manual for Probablility and Statistics for Computer Scientists,Michael Baron,27.00,4.07,2019,1,634,English,13
+163,Mathematics for 3D Game Programming and Computer Graphics,Eric Lengyel,184.00,4.01,2001,8,545,English,6
+164,Computer Science In Python 11th Class,Sumita Arora,43.00,4.14,2019,1,750,English,5
+165,Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer,Hubert L. Dreyfus ,65.00,3.82,1987,7,252,English,7
+166,The Cost Disease: Why Computers Get Cheaper and Health Care Doesn't,William J. Baumol ,144.00,3.71,2012,6,272,English,22
+167,A Vast Machine: Computer Models Climate Data and the Politics of Global Warming,Paul N. Edwards,89.00,4.00,2010,7,518,English,11
+168,Understanding Computer Applications with Blue J Class IX,Dilip Kumar Dey ,60.00,3.98,2021,1,448,English,5
+169,Discrete Mathematics for Computer Scientists and Mathematicians,Joe L. Mott ,56.00,4.20,1985,3,563,English,10
+170,Algorithms on Strings Trees and Sequences: Computer Science and Computational Biology,Dan Gusfield,85.00,4.09,1997,4,556,English,4
+171,Computer Age Statistical Inference: Algorithms Evidence and Data Science,Bradley Efron ,94.00,4.38,2016,4,495,English,6
+172,Computer Programming for Beginners: Fundamentals of Programming Terms and Concepts,Nathan Clark,51.00,3.98,2018,2,209,English,8
+173,Breathing Machine: A Memoir of Computers,Leigh Alexander,275.00,3.99,2014,5,67,English,33
+174,The Advent of the Algorithm: The 300  Year Journey from an Idea to the Computer,David Berlinski,209.00,3.33,2000,5,368,English,29
+175,Hacking: Ultimate Hacking for Beginners How to Hack,Andrew McKinnon,131.00,3.47,2015,2,218,English,6
+176,Designing the User Interface: Strategies for Effective Human  Computer Interaction,Ben Shneiderman ,162.00,3.54,1986,24,652,English,7
+177,The WoW Diary: A Journal of Computer Game Development,John Staats ,254.00,4.48,2018,2,336,English,33
+178,Steal This Computer Book 4.0 – What They Won′t Tell You About the Internet 4e,Wallace Wang,216.00,3.64,2006,6,376,English,17
+179,Human  Computer Interaction,Alan Dix ,148.00,3.73,1993,4,880,English,5
+180,Designing the User Interface: Strategies for Effective Human  Computer Interaction,Ben Shneiderman ,162.00,3.54,1986,24,652,English,7
+181,Computer Love Inc. II: Gestation (Computer Love Inc. #2),Kurt Hansen ,10.00,4.40,2014,2,215,English,3
+182,Virtual Reality: The Revolutionary Technology of Computer  Generated Artificial Worlds  And How It Promises to Transform Society,Howard Rheingold ,127.00,3.67,1991,9,416,English,7
+183,Hacking: The Underground Guide to Computer Hacking Including Wireless Networks Security Windows Kali Linux and Penetration Testing,Abraham K. White,43.00,3.35,2017,2,232,English,9
+184,The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer,Sydney Padua ,4187.00,4.03,2015,10,320,English,902
+185,Foundations of Computer Science,Behrouz A. Forouzan,108.00,3.96,2002,3,624,English,6
+186,Computer Science: A Structured Programming Approach Using C,Behrouz A. Forouzan ,93.00,3.89,2000,6,832,English,6
+187,Blockchain For Dummies (For Dummies),Tiana Laurence,120.00,3.18,2019,10,240,English,20
+188,Computer Organization,V. Carl Hamacher,135.00,3.63,1978,12,832,English,10
+189,Rebuilt: How Becoming Part Computer Made Me More Human,Michael Chorost,243.00,3.64,2005,7,232,English,35
+190,Fumbling the Future: How Xerox Invented Then Ignored the First Personal Computer,Douglas K. Smith ,149.00,3.89,1988,7,276,English,11
+191,Solutions Manual for Probability for Electrical and Computer Engineers,Charles W. Therrien ,50.00,4.06,2004,1,267,English,13
+192,100 Amazing Computer Tips,Diane McKeever,10.00,4.30,2014,3,256,English,5
+193,The Coding Samurai: The Way of the Computer Warrior,Ian Felton ,7.00,4.43,2017,2,378,English,4
+194,Dungeons and Desktops: The History of Computer Role  Playing Games,Matt Barton ,199.00,3.63,2008,7,456,English,32
+195,Schaum's Outline of Computer Graphics 2/E,Roy A. Plastock ,53.00,4.13,2000,1,347,English,5
+196,Computer Networks: A Systems Approach,Larry L. Peterson ,214.00,3.83,1996,31,806,English,13
+197,The Children's Machine: Rethinking School In The Age Of The Computer,Seymour Papert,109.00,4.10,1993,4,256,English,9
+198,Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists,Dennis E. Shasha ,166.00,3.83,1995,4,291,English,20
+199,The Animator's Survival Kit: A Manual of Methods Principles and Formulas for Classical Computer Games Stop Motion and Internet Animators,Richard Williams,6776.00,4.38,2001,12,392,English,132
+200,Computer Graphics Using OpenGL,F.S. Hill Jr. ,88.00,4.07,2000,5,778,English,9
+201,Computer Vision: Algorithms and Applications,Richard Szeliski,102.00,4.16,2010,4,812,English,2
+202,Colossus: The Secrets of Bletchley Park's Codebreaking Computers,B. Jack Copeland (Editor),131.00,4.02,2006,9,462,English,14
+203,Fumbling the Future: How Xerox Invented Then Ignored the First Personal Computer,Douglas K. Smith ,149.00,3.89,1988,7,276,English,11
+204,Computer Fundamentals: Architecture And Organization,B. Ram,9.00,4.11,2014,2,442,English,0
+205,PINKI AND COMPUTER VIRUS,Pran Kumar Sharma,323.00,4.40,2016,1,32,English,1
+206,Writing for Computer Science,Justin Zobel,141.00,4.01,1997,7,270,English,10
+207,The Design and Analysis of Computer Algorithms,Alfred V. Aho ,87.00,3.87,1974,3,480,English,4
+208,Humans vs Computers,Gojko Adzic ,128.00,3.99,2017,5,222,English,20
+209,Fundamentals of Computers,Reema Thareja,71.00,4.25,2014,2,288,English,5
+210,How to Code in 10 Easy Lessons: Learn how to design and code your very own computer game,Sean McManus,39.00,4.36,2015,2,64,English,7
+211,Computer Programming: Learn Any Programming Language In 2 Hours,Cooper Alvin,16.00,3.31,2018,2,774,English,1
+212,Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists,Dennis E. Shasha ,166.00,3.83,1995,4,291,English,20
+213,Computer Gramam ,Sujatha,160.00,4.00,2010,4,128,Tamil,20
+214,The Windows Command Line Beginner's Guide,Jonathan Moeller ,105.00,3.76,2011,4,121,English,6
+215,Selected Papers on Computer Science,Donald Ervin Knuth,70.00,3.86,1996,2,276,English,4
+216,Learning OpenCV: Computer Vision with the OpenCV Library,Gary Bradski ,166.00,4.05,2008,7,580,English,13
+217,Computer Graphics,Udit Agarwal,24.00,4.00,2010,1,430,English,0
+218,Hello World! Computer Programming for Kids and Other Beginners,Warren Sande ,186.00,4.07,2008,8,440,English,15
+219,Computer Graphics: A Programming Approach,Steven Harrington,42.00,3.64,1982,4,466,English,1
+220,The Berenstain Bears' Computer Trouble,Jan Berenstain ,254.00,3.78,2010,6,32,English,24
+221,Digital Computer Fundamentals,Thomas C. Bartee,51.00,3.94,1960,9,563,English,8
+222,Invent Your Own Computer Games with Python,Al Sweigart ,179.00,4.11,2009,13,438,English,18
+223,Hello World! Computer Programming for Kids and Other Beginners,Warren Sande ,186.00,4.07,2008,8,440,English,15
+224,Fundamentals of Computer Graphics,Peter Shirley,94.00,3.78,2002,8,392,English,4
+225,The Media Equation: How People Treat Computers Television and New Media Like Real People and Places,Byron Reeves ,142.00,3.77,1996,6,305,English,10
+226,The Apollo Guidance Computer: Architecture And Operation (Springer Praxis Books / Space Exploration),Frank O'Brien,88.00,4.27,2010,4,439,English,10
+227,Computer Science: A Very Short Introduction,Subrata Dasgupta,127.00,3.61,2016,2,144,English,12
+228,Hidden In Plain Sight 10: How To Program A Quantum Computer,Andrew Thomas,112.00,4.12,2018,1,191,English,10
+229,Understanding the Digital World: What You Need to Know about Computers the Internet Privacy and Security,Brian W. Kernighan,93.00,4.11,2017,4,256,English,8
+230,Introduction to Computer Theory,Daniel I.A. Cohen,94.00,3.86,1986,8,648,English,12
+231,Computers as Theatre,Brenda Laurel,112.00,3.92,1991,6,227,English,8
+232,HACKED: Kali Linux and Wireless Hacking Ultimate Guide With Security and Penetration Testing Tools Practical Step by Step Computer Hacking Book,Alan T. Norman,40.00,3.92,2018,2,158,English,3
+233,Advanced Computer Architecture,Kai Hwang,56.00,3.84,1993,2,672,English,6
+234,Computer One,Warwick Collins,76.00,3.89,1993,5,274,English,6
+235,Digital Design and Computer Architecture,David Money Harris ,119.00,4.33,2007,15,592,English,8
+236,Breaking Seas: An overweight middle  aged computer nerd buys his first boat quits his job and sails off to adventure,Glenn Damato ,383.00,3.67,2012,2,362,English,28
+237,The Little Kingdom: The Private Story of Apple Computer,Michael Moritz,62.00,4.39,1984,1,336,English,4
+238,Computer Love Inc. III: Blood Brothers,Kurt Hansen ,4.00,5.00,2016,2,227,English,1
+239,Computer Graphics with OpenGL,Donald Hearn ,133.00,3.73,2003,11,880,English,8
+240,Advanced Computer Architectures: A Design Space Approach,Dezso Sima,43.00,3.67,1997,1,766,English,4
+241,Computers Made Easy: From Dummy To Geek,James Bernstein ,24.00,3.88,2018,4,221,English,0
+242,The Computer Boys Take Over: Computers Programmers and the Politics of Technical Expertise,Nathan L. Ensmenger,82.00,3.79,2010,5,336,English,13
+243,Hacking: Computer Hacking Security Testing Penetration Testing and Basic Security,Gary Hall ,84.00,2.87,2014,3,136,English,7
+244,Little Computer People,Galen Surlak  Ramsey ,78.00,3.88,2017,4,266,English,32
+245,In the Mind's Eye: Visual Thinkers Gifted People with Dyslexia and Other Learning Difficulties Computer Images and the Ironies of Creativity,Thomas G. West,103.00,4.17,1991,5,397,English,9
+246,A Gift of Fire: Social Legal and Ethical Issues for Computers and the Internet,Sara Baase,254.00,3.44,1996,19,464,English,24
+247,Computer Networking: Beginner's guide for Mastering Computer Networking and the OSI Model (Computer Networking Series Book 1),Ramon Nastase ,40.00,3.80,2018,2,80,English,5
+248,Modern Computer Architecture,Mohamed Rafiquzzaman ,25.00,4.28,1988,2,410,English,4
+249,My Mother Was a Computer: Digital Subjects and Literary Texts,N. Katherine Hayles,108.00,3.77,2005,7,288,English,5
+250,Online with Computers Book ,Charles Baker Books Limited,40.00,3.82,2020,1,128,English,4
+251,Physical Computing: Sensing and Controlling the Physical World with Computers,Dan O'Sullivan ,127.00,4.06,2004,2,464,English,7
+252,Computer Control of Processes,M. Chidambaram,39.00,3.54,2002,3,284,English,4
+253,Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series),Zed A. Shaw,1193.00,3.87,2010,13,320,English,123
+254,A Shortcut Through Time: The Path to the Quantum Computer,George Johnson,215.00,3.70,2003,12,224,English,23
+255,Dreaming in Code: Ada Byron Lovelace Computer Pioneer,Emily Arnold McCully,144.00,3.72,2019,4,176,English,54
+256,Who Says Women Can't Be Computer Programmers?: The Story of Ada Lovelace,Tanya Lee Stone ,177.00,3.79,2018,2,40,English,41
+257,Help Your Kids with Computer Coding,Carol Vorderman ,101.00,4.23,2014,4,224,English,16
+258,Kips Cyber Beans Computer Applications for Class 10,Kips Learning Solutions Pvt. Ltd.,35.00,3.46,2018,1,336,English,6
+259,A History of Pictures for Children: From Cave Paintings to Computer Drawings,David Hockney ,157.00,4.21,2018,11,128,English,47
+261,Thought Contagion: When Ideas ACT Like Viruses (The Kluwer International Series in Engineering & Computer Science),Aaron Lynch,121.00,3.22,1996,4,208,English,10
+262,How to Build a Computer: Learn How to Build Your Own Computer From Scratch. The Parts Connecting Everything Together Installation and More... All You Need to Know on How to Build a PC in One Guide!,Douglas L. Miller,88.00,3.97,2013,1,52,English,7
+263,Computer Science: A Breadth  First Approach with C,John Impagliazzo ,41.00,3.71,1995,2,768,English,5
+264,  for Computer Science,P. Charles Brown ,35.00,3.71,2015,1,241,English,1
+265,How to Solve It by Computer,R.G. Dromey,44.00,4.14,2008,3,442,English,2
+266,Foundations of Computer Science: C Edition,Alfred V. Aho ,97.00,4.01,1992,4,800,English,4
+267,Computer and Communication Networks,Nader F. Mir,44.00,3.82,2006,8,656,English,1
+268,Computers & Typesetting Volume A: The TeXBook,Donald Ervin Knuth ,146.00,4.33,1984,2,483,English,8
+269,Cambridge IGCSE Computer Studies Coursebook [With CDROM],Chris Leadbetter ,47.00,4.38,2011,2,306,German,2
+270,Online with Computers Book,Charles Baker Books Limited,33.00,2.97,2010,1,104,English,2
+271,The Art of Computer Programming Volume 4 Fascicle 0: Introduction to Combinatorial Algorithms and Boolean Functions,Donald Ervin Knuth,40.00,4.58,2008,1,216,English,1
+272,From Barbie to Mortal Kombat: Gender and Computer Games,Justine Cassell (Editor) ,89.00,3.80,1998,4,380,English,3
+273,The Computer: A Very Short Introduction,Darrel Ince,64.00,3.44,2011,2,139,English,13
+274,The Computer Heist (The Travelers #2),Michael P. King ,96.00,4.01,2018,2,181,English,19
+275,The Art of Computer Systems Performance Analysis: Techniques for Experimental Design Measurement Simulation and Modeling,Raj Jain,63.00,4.22,1991,2,720,English,8
+276,Quantum Computer Science,N. David Mermin,40.00,3.62,2007,5,220,English,5
+277,Procedural Elements of Computer Graphics,David F. Rogers,68.00,4.06,1984,3,711,English,3
+278,Click Start Level 8: Computer Science for Schools,Anjana Virmani ,25.00,4.08,2016,1,84,English,2
+279,The Dreams of Reason: The Computer and the Rise of the Sciences of Complexity,Heinz R. Pagels,75.00,4.13,1988,2,352,English,6
+280,The New Division of Labor: How Computers Are Creating the Next Job Market,Frank S. Levy ,50.00,3.66,2004,5,174,English,8
+281,Winnie's New Computer,Valerie Thomas ,233.00,4.14,2003,20,32,English,21
+282,High  Tech Heretic: Reflections of a Computer Contrarian,Clifford Stoll,185.00,3.54,1999,6,240,English,16
+283,User Centered System Design: New Perspectives on Human  Computer Interaction,Donald A. Norman (Editor) ,24.00,3.88,1986,4,544,English,1
+284,Computer Memory: Develop A Computer Like Memory In 5 Minutes A Day,Michael Davis ,38.00,3.34,2017,2,82,English,6
+285,Understanding Computers: Today and Tomorrow Comprehensive,Deborah Morley,96.00,3.91,2001,18,350,English,10
+286,Online with Computers Book  6,Charles Baker Books Limited,25.00,3.76,2018,1,108,English,2
+287,Online with Computers Book  8,Charles Baker Books Limited,32.00,3.66,2019,1,148,English,3
+288,It's Not Carpal Tunnel Syndrome!: RSI Theory and Therapy for Computer Professionals,Suparna Damany MSPT ,152.00,4.20,2001,1,234,English,12
+289,Commodore 64 Programmer's Reference Guide,Commodore Computer,48.00,4.48,1982,1,486,English,4
+290,Research Methods in Human  Computer Interaction,Jonathan Lazar ,83.00,4.08,2009,5,446,English,3
+291,How To Cancel A Kindle Order: How To Return A Kindle Book Fast And Easy And Get A Refund Step By Step With Screenshots And FREE Gift,Computer Nerds,9.00,3.89,2020,1,11,English,1
+292,Failure to Connect: How Computers Affect Our Children's Minds – and What We Can Do About It,Jane M. Healy,76.00,3.84,1998,8,352,English,7
+293,Solutions Manual to Accompany Introduction to Computer Theory,Daniel I.A. Cohen ,27.00,3.59,2013,1,188,English,7
+294,Machine Trading: Deploying Computer Algorithms to Conquer the Markets,Ernest P. Chan,36.00,4.17,2016,1,256,English,5
+295,The Art of Computer Programming Volume 4 Fascicle 4: Generating All Trees  History of Combinatorial Generation,Donald Ervin Knuth,35.00,4.51,2006,1,120,English,0
+297,The Art of Computer Programming Volume 4 Fascicle 3: Generating All Combinations and Partitions,Donald Ervin Knuth,45.00,4.53,2005,1,160,English,2
+298,Probability and Statistics with Reliability Queuing and Computer Science Applications,Kishor S. Trivedi,24.00,4.04,1982,6,624,English,3
+299,Solutions Manual To Accompany Power System Analysis And Design With Personal Computer Applications,J. Duncan Glover,29.00,3.93,1987,1,153,English,4
+300,Behind Deep Blue: Building the Computer That Defeated the World Chess Champion,Feng  Hsiung Hsu,139.00,3.81,2002,2,320,English,15
+301,Logic and Computer Design Fundamentals,M. Morris Mano ,175.00,3.62,1900,27,650,English,8
+302,A Machine Made This Book: Ten Sketches of Computer Science,John Whitington ,7.00,3.29,2016,2,204,English,4
+303,Classic Computer Science Problems in Python,David Kopec ,41.00,3.68,2019,7,224,English,11
+304,Computer Networking,Stanford H. Rowe,20.00,3.90,2004,1,645,English,2
+305,Composition for Computer Musicians,Michael Hewitt,80.00,4.34,2009,3,304,English,3
+306,Ada Lovelace: The Making of a Computer Scientist,Christopher Hollings ,45.00,4.02,2018,1,128,English,7
+307,Coding for Kids in Scratch 3: The Complete Guide to Creating Art Artificial Intelligence and Computer Games for Beginners,Raj Sidhu,57.00,4.30,2019,2,149,English,2
+308,Hacking: Hacking For Beginners Guide On How To Hack Computer Hacking And The Basics Of Ethical Hacking (Hacking Books),Josh Thompsons,31.00,3.65,2017,1,114,English,2
+309,Online with Computers Book  4,Charles Baker Books Limited,31.00,3.68,2018,1,88,English,3
+310,On Computer Simulated Universes,Mark J. Solomon ,68.00,3.84,2013,3,48,English,13
+311,Interactive Computer Graphics: A Top  Down Approach Using OpenGL,Edward Angel,93.00,3.69,1996,13,864,English,8
+312,Multiple View Geometry in Computer Vision,Richard Hartley ,111.00,4.32,2000,8,670,English,2
+313,Introduction to Computer Security,Michael T. Goodrich ,65.00,4.00,2010,9,556,English,3
+314,Computers as Components: Principles of Embedded Computing Systems Design,Wayne Wolf,44.00,3.86,2000,9,656,English,1
+315,The Art Of Computer Game Design,Chris Crawford,122.00,3.75,2012,3,240,English,13
+316,The Cartoon Guide to the Computer,Larry Gonick ,98.00,3.89,1983,3,256,English,8
+317,Handbook of Computer Science & IT,Arihant Experts,32.00,3.88,2013,3,416,English,2
+318,System Simulation With Digital Computer,Narsingh Deo,21.00,3.76,2004,2,216,English,4
+319,ISC COMPUTER SCIENCE WITH JAVA : A TEXTBOOK FOR CLASS  ,Sumita Arora,24.00,3.92,2012,1,704,English,6
+320,Essential Algorithms: A Practical Approach to Computer Algorithms,Rod Stephens,55.00,3.98,2013,8,301,English,6
+321,The Art of Computer Programming Volume 4 Fascicle 1: Bitwise Tricks & Techniques; Binary Decision Diagrams,Donald Ervin Knuth,29.00,4.72,2009,1,260,English,0
+322,The Cartoon Guide to the Computer,Larry Gonick ,98.00,3.89,1983,3,256,English,8
+323,Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers,Roy D. Yates,49.00,3.76,1998,7,544,English,2
+324,Computer Knowledge for SBI/ IBPS Clerk/ PO/ RRB/ RBI/ SSC/ Insurance Exams,Shikha Agarwal,13.00,3.92,2014,2,250,English,0
+325,Real Digital Forensics: Computer Security and Incident Response,Keith J. Jones ,75.00,4.16,2005,2,688,English,4
+326,The Story of Libraries: From the Invention of Writing to the Computer Age,Fred Lerner,164.00,3.31,1998,4,256,English,17
+327,Human  Computer Interaction: An Empirical Research Perspective,I. Scott MacKenzie,30.00,4.50,2012,4,351,English,5
+328,Computer Peripherals,Barry M. Cook ,41.00,3.90,2009,3,308,English,6
+329,Intercept: The Secret History of Computers and Spies,Gordon Corera,618.00,3.99,2015,13,431,English,84
+330,Mathematical Structures for Computer Science,Judith L. Gersting,49.00,4.04,1982,9,784,English,3
+331,Why Aren't They Shouting?: How Computers Ate Banking,Kevin Rodgers,156.00,4.24,2016,4,304,English,11
+332,Computer Science,C.S. French,36.00,4.11,2015,5,750,English,12
+333,Practical Programming: An Introduction to Computer Science Using Python,Jennifer Campbell ,72.00,3.75,2009,4,350,English,11
+334,The Policeman's Beard is Half  Constructed: Computer Prose and Poetry,Racter ,83.00,3.80,1983,1,120,English,18
+335,Mathematical Elements for Computer Graphics,David F. Rogers ,30.00,3.70,1989,1,611,English,0
+336,Deep Learning for Computer Vision with Python ImageNet Bundle,Adrian Rosebrock,20.00,4.80,2017,1,321,English,1
+337,Logic in Computer Science: Modelling and Reasoning about Systems,Michael Huth ,65.00,3.91,1999,10,447,English,7
+338,Special  for the students of computer,Manoochehr Haghani,25.00,4.00,2002,1,249,English,3
+339,Schaum's Outline of Essential Computer Mathematics,Seymour Lipschutz,53.00,4.02,1982,3,384,English,1
+340,Genetic Programming: On the Programming of Computers by Means of Natural Selection,John R. Koza,45.00,4.31,1992,3,836,English,2
+341,Introduction to Computer Graphics and Multimedia,Anirban Mukhopadhyay ,18.00,3.89,2010,1,454,English,2
+342,The Art of Computer Programming Volume 4 Fascicle 2: Generating All Tuples and Permutations,Donald Ervin Knuth,30.00,4.70,2005,1,127,English,0
+343,Networking Made Easy: Get Yourself Connected (Computers Made Easy Book 3),James Bernstein ,17.00,3.88,2018,1,143,English,2
+344,Essential Office 365 Second Edition: The Illustrated Guide to Using Microsoft Office,Kevin Wilson ,7.00,4.43,2018,2,457,English,1
+345,Engineering Thermodynamics: A Computer Approach,R.K. Rajput,126.00,3.91,2009,2,955,English,0
+346,Technical Traders Guide to Computer Analysis of the Futures Markets,Charles Lebeau ,52.00,3.94,1991,1,312,English,4
+347,Metric Pattern Cutting For Menswear: Including Unisex Clothes And Computer Aided Design,Winifred Aldrich,40.00,4.42,1990,3,168,English,3
+348,Ham Radio For Dummies (For Dummies,H. Ward Silver,335.00,3.74,2004,21,414,English,19
+349,When Computers Were Human,David Alan Grier,41.00,4.02,2005,5,411,English,5
+350,My Life as a Computer Cockroach (The Incredible Worlds of Wally McDoogle 17),Bill Myers ,124.00,3.65,1999,5,128,English,3
+351,The Closed World: Computers and the Politics of Discourse in Cold War America,Paul N. Edwards,64.00,4.08,1996,4,462,English,7
+352,Computer Techniques and Model in Power Systems,K. Uma Rao,20.00,4.30,2008,1,512,English,0
+353,Guide to Computer Forensics and Investigations (Book & CD),Bill Nelson ,166.00,3.83,2003,24,720,English,6
+354,Peter Norton's Introduction to Computers Fifth Edition Computing Fundamentals Student Edition,Peter Norton,37.00,3.95,1995,9,502,English,0
+355,Harmony for Computer Musicians,Michael Hewitt,54.00,4.43,2010,4,304,English,2
+356,80X86 IBM PC and Compatible Computers: Assembly Language Design and Interfacing; Volume I and II,Muhammad Ali Mazidi ,67.00,4.04,1997,3,984,English,4
+357,Building Your Own Computer Made Easy: The Step By Step Guide (Computers Made Easy Book 6),James Bernstein ,33.00,4.61,2019,2,131,English,4
+358,Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design,Edward Yourdon,26.00,3.69,1978,3,473,English,3
+359,Raising the Stakes: E sports and the Professionalization of Computer Gaming,T.L. Taylor ,65.00,3.92,2015,7,304,English,8
+360,The Art of Human  Computer Interface Design,Brenda Laurel (Editor) ,42.00,3.79,1990,1,544,English,1
+361,Modern Computer Hardware Course,Manahar Lotia ,23.00,3.48,2006,1,660,English,3
+363,Wired for Speech: How Voice Activates and Advances the Human  Computer Relationship,Clifford Nass ,52.00,4.19,2005,3,296,English,5
+364,New Word a Day for Kids: Computer Terms,Elliot Carruthers ,1.00,4.00,2016,2,186,English,0
+365,Computer Architecture and Logic Design,Thomas C. Bartee,37.00,4.00,1990,2,628,English,3
+368,Simple Computer Tips for Busy People,Joe Rejeski ,2.00,2.50,2017,1,176,English,2
+369,Calculated Bets: Computers Gambling and Mathematical Modeling to Win,Steven S. Skiena ,84.00,3.92,1997,6,252,English,0
+370,Computer Networks,Bhushan Trivedi,23.00,3.96,2012,1,816,English,5
+371,Computer Programming with MATLAB,J. Michael Fitzpatrick ,20.00,4.05,2013,2,350,English,5
+372,Fundamentals of Computer Programming with C# (The Bulgarian C# Book),Svetlin Nakov ,86.00,4.41,2011,4,1132,English,7
+373,Rez Road Follies: Canoes Casinos Computers and Birch Bark Baskets,Jim Northrup,140.00,4.04,1997,2,256,English,12
+374,Core Memory: A Visual Survey of Vintage Computers,John Alderman ,105.00,4.36,2007,6,160,English,10
+375,Think Java: How to Think Like a Computer Scientist,Allen B. Downey ,122.00,3.82,2016,17,248,English,23
+376,Build Awesome Command  Line Applications in Ruby: Control Your Computer Simplify Your Life,David B. Copeland ,106.00,3.89,2012,5,225,English,10
+377,Peppa Pig: Peppa Pig's Family Computer,Neville Astley (Creator) ,175.00,3.88,2012,6,24,English,2
+378,My Life as a Computer Cockroach (The Incredible Worlds of Wally McDoogle 17),Bill Myers ,124.00,3.65,1999,5,128,English,3
+379,Pain Free at Your PC: Using a Computer Doesn't Have to Hurt,Pete Egoscue ,107.00,3.98,1999,4,208,English,5
+380,Peter Norton's Introduction to Computers Fifth Edition Computing Fundamentals Student Edition,Peter Norton,37.00,3.95,1995,9,502,English,0
+381,Discovering Computers: Fundamentals,Gary B. Shelly ,34.00,3.03,2004,13,488,English,6
+382,A Female Genius: How Ada Lovelace Lord Byron's Daughter Started the Computer Age,James Essinger ,1372.00,3.30,2013,15,256,English,213
+383,What Computers Can't Do: A Critique of Artificial Reason,Hubert L. Dreyfus,37.00,3.86,2015,10,354,English,8
+384,Computer Ethics,Deborah G. Johnson,58.00,3.40,1984,9,240,English,4
+385,Computer Security: Art and Science,Matt Bishop,52.00,3.69,2002,4,1136,English,4
+387,Brain  Computer Interfacing: An Introduction,Rajesh P.N. Rao,31.00,4.13,2013,5,337,English,2
+388,Computer Security: Principles and Practice,William Stallings ,142.00,3.70,2007,17,798,English,11
+389,Instructor's Manual t/a Structure and Interpretation of Computer Programs second edition,Julie Sussman ,34.00,4.35,1998,2,224,English,1
+390,Essentials of Computer Architecture,Douglas E. Comer,36.00,4.14,2004,7,400,English,2
+391,Computer Systems Design And Architecture: Solutions Manual,Vincent P. Heuring ,18.00,4.39,1996,1,600,English,4
+392,Fuzzy Logic: The Revolutionary Computer Technology That Is Changing Our World,Daniel McNeill ,107.00,3.61,1993,5,320,English,9
+393,Being a Go  To  Tech: How to Be Both Successful and Happy While Working in the World of Computers,Warren C. Zabloudil,5.00,4.00,2012,1,138,English,1
+394,Zuto: The Adventures of a Computer Virus,Udi Aharoni ,30.00,4.27,2012,2,182,English,6
+395,The Datacenter as a Computer: An Introduction to the Design of Warehouse  Scale Machines,Luiz André Barroso ,60.00,4.23,2009,9,107,English,5
+396,Women Who Launched the Computer Age,Laurie Calkhoven ,91.00,4.08,2016,5,48,English,16
+397,The Myths of Security: What the Computer Security Industry Doesn't Want You to Know,John Viega,74.00,3.20,2009,5,264,English,15
+398,Programming Computer Vision with Python: Tools and algorithms for analyzing images,Jan Erik Solem,66.00,3.98,2012,10,264,English,4
+399,The Principles of Computer Hardware,Alan Clements,43.00,3.79,1985,8,716,English,3
+400,Programming: Computer Programming for Beginners: Learn the Basics of Java SQL & C++ 2. Edition,Joseph Connor,19.00,3.32,2015,1,154,English,2
+401,Hacking for Beginners: Learn Practical Hacking Skills! All About Computer Hacking Ethical Hacking Black Hat Penetration Testing And Much More!,Cooper Alvin,77.00,3.29,2017,1,63,English,6
+402,A Programmer's Guide to Computer Science: A virtual degree for the self taught developer,William M. Springer II ,25.00,3.60,2019,4,190,English,1
+403,The Encyclopedia of Human Computer Interaction,Mads Soegaard ,8.00,4.00,2014,1,22,English,0
+404,How Computer Games Help Children Learn,David Williamson Shaffer (Foreword) ,78.00,3.81,2006,2,256,English,13
+405,Incident Response & Computer Forensics,Jason T. Luttgens ,78.00,4.31,2013,4,601,English,4
+406,Data Science For Dummies (For Dummies,Lillian Pierson ,161.00,3.42,2014,13,384,English,14
+407,Computer Science With C++ CBSE XII Vol. 1: A Textbook for CBSE ,Preeti Arora ,23.00,4.22,2018,1,640,English,1
+408,The Art of 3D Computer Animation and Effects,Isaac V. Kerlow,39.00,4.15,2009,2,499,English,3
+409,Computer Algorithms: Introduction to Design and Analysis,Sara Baase,44.00,3.45,1978,5,600,English,4
+410,Crashing Computers,Michael Coleman ,132.00,3.68,1999,9,160,English,6
+411,Hacking: Beginner to Expert Guide to Computer Hacking Basic Security and Penetration ,James  Patterson,42.00,3.64,2011,1,92,English,4
+412,62 Projects to Make with a Dead Computer:,Randy Sarafan,61.00,3.51,2010,1,252,English,10
+413,Principles of Interactive Computer Graphics,William M. Newman,20.00,3.70,1973,4,541,English,0
+414,Click Start :Computer Science For Schools Student'S Book 9,Narasimhan Meera,19.00,3.63,2013,1,200,English,0
+415,The Nostalgia Nerd's Retro Tech: Computer Consoles & Games,Peter Leigh,152.00,3.93,2018,4,394,English,25
+416,The Psychology of Human  Computer Interaction,Stuart Card (Editor) ,17.00,4.06,1986,6,488,English,1
+417,Cambridge IGCSE Computer Science Coursebook,Sarah Lawrey ,11.00,3.45,2015,1,232,English,2
+419,Coding For Dummies (For Dummies),Nikhil Abraham,15.00,3.93,2017,2,255,English,0
+420,115 Productivity Apps to Maximize Your Time: Apps for iPhone iPad Android Kindle Fire and PC/iOS Desktop Computers (Updated: October 2014),S.J. Scott ,63.00,3.37,2014,1,170,English,5
+421,Languages and Machines: An Introduction to the Theory of Computer Science,Thomas A. Sudkamp,50.00,3.58,1988,6,654,English,1
+422,Discovering Computers 2010: Living in a Digital World Complete,Gary B. Shelly ,33.00,3.42,2009,5,830,English,2
+423,Discovering Computers 2011  Complete: Living in a Digital World,Gary B. Shelly ,24.00,3.33,2010,4,830,English,2
+424,Turtle Geometry: The Computer as a Medium for Exploring Mathematics,Harold Abelson,37.00,4.22,1981,2,498,English,1
+425,Minds Machines and Multiverse: The Quest for the Quantum Computer,Julian Brown,81.00,3.64,1999,5,396,English,8
+426,Computers Today,Donald H. Sanders,29.00,3.86,1982,9,648,English,4
+427,Schaum's Outline of Computer Architecture,Nick Carter,24.00,4.12,2001,2,306,English,2
+428,Computer Vision: A Modern Approach,David A. Forsyth ,84.00,3.71,2002,10,693,English,4
+429,When Computing Got Personal: A history of the desktop computer,Matt Nicholson ,81.00,4.12,2014,3,302,English,9
+430,The Art of Computer Programming Volume 4 Fascicles 0  4,Donald Ervin Knuth,14.00,5.00,2009,1,944,English,1
+431,John von Neumann: The Scientific Genius Who Pioneered the Modern Computer Game Theory Nuclear Deterrence and Much More,Norman Macrae,184.00,3.73,1992,7,405,English,25
+433,Python: Python Programming For Beginners The Comprehensive Guide To Python Programming: Computer Programming Computer Language Computer Science,Adam Stark,31.00,3.45,2016,1,88,English,1
+434,Hidden Human Computers: The Black Women of NASA,Sue Bradford Edwards ,40.00,4.05,2017,2,112,English,11
+435,The Art of Computer Programming Volume 4 Fascicles 0  4,Donald Ervin Knuth,14.00,5.00,2009,1,944,English,1
+436,Computer Networks: Principles Technologies and Protocols for Network Design,Natalia Olifer ,63.00,3.87,2005,7,1000,English,6
+437,The CG Story: Computer  Generated Animation and Special Effects,Christopher Finch,14.00,3.50,2013,1,368,English,2
+438,Digital Evidence and Computer Crime: Forensic Science Computers and the Internet,Eoghan Casey ,107.00,3.87,1999,12,690,English,8
+439,Schaum's Outline of Computer Graphics 2/E,Zhigang Xiang ,16.00,4.06,2000,2,347,English,1
+440,Hacking: Beginner’s Guide to Computer Hacking Basic Security Penetration Testing,John Stark,40.00,3.15,2017,2,95,English,3
+441,Neural Networks in Computer Intelligence,Limin Fu ,34.00,4.26,1994,2,460,English,1
+442,Modern Processor Design: Fundamentals of Superscalar Processors (McGraw  Hill Series in Electrical and Computer Engineering),John P. Shen ,16.00,4.56,2002,2,656,English,1
+444,UGC NET COMPUTER SCIENCE SUBJECT WISE SOLVED PAPERS WITH EXPLANATION,Veenu Saini,16.00,3.69,2017,1,400,English,0
+445,How to Code: A Step By Step Guide to Computer Coding,Max Wainewright ,43.00,4.00,2016,6,128,English,6
+446,Programming Quantum Computers: Essential Algorithms and Code Samples,Eric R. Johnston ,27.00,4.15,2019,5,336,English,1
+447,Computer Forensics for Dummies,Linda Volonino ,45.00,3.58,2008,10,384,English,1
+448,HACKING: Beginner's Crash Course Essential Guide to Practical: Computer Hacking Hacking for Beginners & Penetration Testing (Computer Systems Computer Programming Computer Science Book 1),Joshua R. Stone,40.00,3.72,2020,1,57,English,2
+449,Objective Computer Science and Information Technology For Competitive Examinations,Jushta Jaiswal,15.00,3.93,2016,1,600,English,0
+450,The Internet Book: Everything You Need to Know about Computer Networking and How the Internet Works,Douglas E. Comer,58.00,3.74,1994,7,380,English,2
+451,The Computer Nut,Betsy Byars,129.00,3.48,1984,11,104,English,16
+452,Computer Aided Power System Operation And Analysis,R.N. Dhar,18.00,3.61,1983,1,266,English,4
+453,Hacking: Secrets To Becoming A Genius Hacker: How To Hack Smartphones Computers & Websites For Beginners,Steven E. Dunlop ,33.00,4.30,2015,1,38,English,4
+454,Technical Aptitude for Interviews: Computer Science and IT,Ela Kashyap Sharma,13.00,4.85,2014,1,456,English,1
+455,Hacking: A Beginners' Guide to Computer Hacking Basic Security and Penetration Testing (How to hack and secure your computer for beginners Arduino python Book 1),John Slavio,33.00,3.67,2017,3,74,English,7
+456,Computer Networks and Internets [With CDROM and Companion Website Access Code Card],Douglas E. Comer,116.00,3.72,1996,21,600,English,6
+458,Computers Pattern Chaos and Beauty,Clifford A. Pickover,60.00,4.02,2012,7,412,English,3
+459,Theory Of Computer Science,K.L.P. Mishra ,26.00,4.08,2004,1,316,English,1
+460,Computer Communications and Networking Technologies,William M. Hancock ,20.00,3.85,2001,2,704,English,2
+461,Raspberry Pi: The Essential Guide On Starting Your Own Raspberry Pi 3 Projects With Ingenious Tips & Tricks! (Computer Programming Raspberry Pi 3),Jared Hendrix,34.00,3.59,2016,1,83,English,4
+462,Systems Approach to Computer  Integrated Design and Manufacturing,Nanua Singh ,16.00,4.06,1995,2,664,English,1
+463,The Universal History of Computing: From the Abacus to the Quantum Computer,Georges Ifrah (Contributor),50.00,3.70,2000,8,416,English,4
+465,Principles of Computer System Design: An Introduction,Jerome H. Saltzer,38.00,3.74,2009,5,526,English,3
+466,The 80x86 IBM PC And Compatible Computers: Assembly Language Design and Interfacing,Muhammad Ali Mazidi ,84.00,4.12,1997,2,366,English,1
+467,Cambridge IGCSE Computer Science Revision Guide,David  Watson ,11.00,3.91,2015,1,224,English,1
+468,Computer Science Illuminated,Nell B. Dale ,96.00,3.53,2002,22,636,English,4
+469,An Invitation to Computer Science,G. Michael Schneider ,64.00,3.47,1995,14,744,English,7
+470,HACKING: Learn Hacking FAST! Ultimate Course Book For Beginners,Gary Mitnick,43.00,3.33,2015,1,99,English,3
+471,A Gamers Guide To Building A Gaming Computer,David Talmage,38.00,4.34,2015,2,150,English,6
+472,Assembly Language Step  by  Step: Programming with DOS and Linux,Jeff Duntemann ,61.00,4.08,2000,3,640,English,2
+473,Agile Project Management For Dummies (For Dummies,Mark C. Layton ,370.00,3.70,2011,1,402,English,27
+474,Assembly Language Step  by  Step: Programming with DOS and Linux,Jeff Duntemann ,61.00,4.08,2000,3,640,English,2
+475,"Instructor's Solutions Manual To Accompany ""Design Of Analog Filters"" (The Oxford Series In Electrical & Computer Engineering)",Rolf Schaumann ,12.00,4.33,2001,1,544,English,1
+476,AP Computer Science A: With 6 Practice Tests,Roselyn Teukolsky,6.00,3.83,2019,4,496,English,0
+477,GATE AND PGECET For Computer Science and Information Technology,Ramaiah K. Dasaradh,9.00,4.22,2014,1,568,English,0
+478,Commodore 64 User's Guide,Commodore Computer (Editor),25.00,4.28,1982,1,166,English,4
+479,Computer Architecture: Concepts and Evolution,Gerrit A. Blaauw ,12.00,4.33,1997,2,1264,English,4
+480,The Art of Ratchet & Clank,Sony Computer Entertainment,24.00,4.12,2018,2,248,English,2
+481,Electronic Dreams: How 1980s Britain Learned to Love the Computer,Tom Lean,140.00,4.19,2016,5,288,English,27
+482,Writing Space: Computers Hypertext and the Remediation of Print,Jay David Bolter,76.00,3.43,1990,12,246,English,9
+483,Python All  in  One For Dummies (For Dummies,John Shovic ,24.00,3.67,2019,4,704,English,5
+484,Introduction to Operations Research: A Computer  Oriented Algorithmic Approach,Billy E. Gillett,16.00,3.75,1976,2,617,English,0
+486,Computer Fundamentals And Programming In C,S.K. Jha ,14.00,3.86,2007,1,350,English,0
+487,Computer Graphics,Donald Hearn ,42.00,3.88,1986,6,652,English,1
+488,Computer Vision: Models Learning and Inference,Simon J.D. Prince,45.00,4.47,2012,6,600,English,2
+489,The FastTrack to Human  Computer Interaction,Serengul Smith  Atakan,28.00,3.75,2006,1,204,English,2
+490,Apple Confidential: The Real Story of Apple Computer Inc.,Owen W. Linzmayer,98.00,3.88,2004,2,280,English,1
+491,Kips Cyber Beans Computer Applications Based on Windows 7 with MS Office 2010 Version for Class 9,Kips Learning Solutions Pvt. Ltd.,13.00,3.69,2020,1,415,English,3
+492,i  Minds: How Cell Phones Computers Gaming and Social Media Are Changing Our Brains Our Behavior and the Evolution of Our Species,Mari K. Swingle,42.00,3.55,2015,3,240,English,8
+493,Discovering Computers 2008: Complete,Gary B. Shelly ,34.00,3.56,2007,5,824,English,5
+494,Where Stuff Comes from: How Toasters Toilets Cars Computers and Many Other Things Come to Be as They Are,Harvey Molotch,55.00,3.56,2003,10,336,English,3
+495,i  Minds: How Cell Phones Computers Gaming and Social Media Are Changing Our Brains Our Behavior and the Evolution of Our Species,Mari K. Swingle,42.00,3.55,2015,3,240,English,8
+496,Discovering Computers 2008: Complete,Gary B. Shelly ,34.00,3.56,2007,5,824,English,5
+497,Assembly Language for Intel  Based Computers,Kip Irvine,77.00,4.12,1998,8,676,English,10
+498,Computer Forensics And Cyber Crime: An Introduction,Marjie T. Britz,45.00,3.80,2003,4,408,English,3
+499,Computer Vision and Image Processing: A Practical Approach Using CVIPTools,Scott E. Umbaugh,16.00,4.12,1997,1,528,English,2
+501,Instructor's Manual To Accompany Discrete Mathematical Structures With Applications To Computer Science,Jean  Paul Tremblay,13.00,3.46,1976,1,0,English,0
+502,It's behind you The making of a computer Game,Bob Pape,84.00,4.14,2013,1,136,English,19
+503,The Computer from Pascal to Von Neumann,Herman H. Goldstine,29.00,3.62,1972,6,400,English,6
+504,Possiplex: Movies Intellect Creative Control My Computer Life and the Fight for Civilization,Ted Nelson,22.00,4.14,2011,2,380,English,4
+505,Performance Modeling and Design of Computer Systems: Queueing Theory in Action,Mor Harchol  Balter,27.00,4.63,2012,4,576,English,2
+506,Behind the Computer,F.L. Jacob ,103.00,3.97,2015,3,160,English,59
+507,Google Apps Made Easy: Learn to work in the cloud (Computers Made Easy Book 7),James Bernstein ,7.00,4.43,2019,1,477,English,0
+508,Probability and Statistics for Computer Scientists,Michael Baron,38.00,3.84,2006,9,413,English,5
+509,Schaum's Outline of Computer Networking,Ed Tittel,12.00,4.00,2002,5,336,English,3
+510,How to Make Driver's Licenses and Other ID on Your Home Computer,Max Forge,5.00,4.20,1999,1,104,English,0
+511,Computer Networking First  Step,Wendell Odom,49.00,4.08,2004,2,515,English,1
+513,Music Habits: 101 Production Tips for Computer Musicians,Jason Timothy,68.00,3.87,2012,1,28,English,2
+515,Computer Fundamentals,Anita Goel,23.00,3.65,2010,2,500,English,2
+516,Computer Organization & Architecture,T.K Ghosh,17.00,4.41,2004,1,532,English,1
+517,Computers Are Your Future Complete,Catherine LaBerta,34.00,4.15,2010,7,672,English,4
+518,Solution Manual to Discrete Mathematics from Computer Science,Romualdas Skvarcius ,8.00,3.88,1986,1,448,English,2
+519,Computers in Your Future,Marilyn Meyer ,1.00,5.00,1996,2,250,English,0
+520,Introduction to computer system performance evaluation,Krishna Kant,25.00,4.08,1992,2,640,English,4
+521,Feedback Control for Computer Systems,Philipp K. Janert,39.00,3.67,2013,7,336,English,7
+522,Lift Flap Computers and Coding,Rosie Dickins ,62.00,4.42,2015,9,16,English,6
+523,Swords & Circuitry: A Designer's Guide to Computer Role  Playing Games,Neal Hallford,54.00,3.72,2002,1,514,English,1
+524,Introduction to Computer Graphics,James D. Foley ,29.00,3.69,1993,3,632,English,1
+525,The Architecture of Symbolic Computers,Peter M. Kogge,6.00,4.50,1990,1,739,English,1
+526,Computer Psychotherapy Systems,Morton Wagman,0.00,0.00,1988,1,261,English,0
+527,Computer Programming And Cyber Security for Beginners: This Book Includes: Python Machine Learning SQL Linux Hacking with Kali Linux Ethical Hacking. Coding and Cybersecurity Fundamentals,Zach Codings,7.00,3.86,2020,2,410,English,2
+528,Python for Data Science: A Crash Course for Data Science and Analysis Python Machine Learning and Big Data,Computer Science Academy,2.00,2.50,2020,2,147,English,0
+529,Steal This Computer Book 3: What They Won't Tell You about the Internet,Wallace Wang,50.00,3.24,2003,1,384,English,3
+530,The Ethics of Computer Games,Miguel Sicart,51.00,3.75,2009,7,264,English,4
+531,Computer Systems Design and Architecture,Vincent P. Heuring ,19.00,3.58,1996,2,600,English,2
+532,Solutions Manual To Accompany Hwang Advanced Computer Architecture: Parallelism Scalability Programmability,Hwang  Cheng Wang,6.00,2.83,1993,1,36,English,0
+533,Ada Lovelace: Computer Wizard Of Victorian England,Lucy Lethbridge,34.00,3.41,2003,3,81,English,3
+534,Computer Graphics C Version,Donald Hearn,38.00,3.89,1996,3,652,English,2
+535,The Computer and the Mind: An Introduction to Cognitive Science,Philip N. Johnson  Laird,29.00,3.76,1988,6,444,English,1
+536,Discrete Mathematics for Computer Scientists,John K. Truss,16.00,3.44,1991,3,608,English,1
+537,Computability Complexity and Languages: Fundamentals of Theoretical Computer Science,Martin D. Davis ,29.00,4.07,1983,8,609,English,1
+538,PPI FE Electrical and Computer Review Manual – Comprehensive FE Book for the FE Electrical and Computer Exam,Michael R. Lindeburg,22.00,4.50,2015,1,536,English,2
+539,Fundamentals of Interactive Computer Graphics,James D. Foley ,25.00,4.00,1982,1,664,English,2
+540,Elements of Computer Networking: An Integrated Approach,Narasimha Karumanchi ,39.00,4.03,2014,2,512,English,2
+541,Fundamentals Of Engineering Drawing: With An Introduction To Interactive Computer Graphics For Design And Production,Warren J. Luzadder,16.00,4.06,1992,1,642,English,0
+542,Essentials of Computer Organization and Architecture,Linda Null ,115.00,3.24,2003,19,673,English,6
+543,Computer Architecture: Pipelined and Parallel Processor Design,Michael J. Flynn,14.00,3.71,1995,3,808,English,0
+544,Pioneer Programmer: Jean Jennings Bartik and the Computer That Changed the World,Jean Jennings Bartik,31.00,4.19,2013,2,257,English,3
+545,Turing and the Universal Machine: The Making of the Modern Computer,Jon Agar ,58.00,3.33,1997,2,153,English,6
+546,Oversold and Underused: Computers in the Classroom,Larry Cuban,76.00,3.58,2001,4,250,English,8
+547,The Armchair Universe: An Exploration of Computer Worlds,A.K. Dewdney,47.00,4.28,1987,3,330,English,2
+548,Computer Vision Imaging and Computer Graphics: Theory and Applications,Alpesh Kumar Ranchordas (Editor) ,2.00,4.00,2010,3,388,English,0
+549,Nikon D5600 For Dummies (For Dummies),Julie Adair King,37.00,4.30,2017,5,323,English,2
+550,Hal's Legacy: 2001's Computer as Dream and Reality,David G. Stork (Editor) ,70.00,3.86,1996,2,384,English,7
+551,Windows 10 For Dummies (For Dummies,Andy Rathbone,243.00,3.76,2015,32,456,English,21
+552,Computer Aided Process Control,S.K. Singh,7.00,3.29,2004,1,608,English,0
+553,Course on Computer Concepts (CCC) Made Simple,Satish Jain,19.00,3.63,2008,1,370,English,1
+554,Developing Bioinformatics Computer Skills,Cynthia Gibas ,41.00,3.17,2001,3,446,English,2
+555,New Perspectives on Computer Concepts 2014: Comprehensive,June Jamrich Parsons ,41.00,3.54,2013,5,872,English,2
+556,Discovering Computers 2010: Living in a Digital World Fundamentals,Gary B. Shelly ,17.00,4.00,1986,2,568,English,0
+557,How to Build a Computer 2014  15: Learn Select Parts Assemble and Install: A Step by Step Guide to Your First Homebuilt,Jacob Beckerman,38.00,4.00,2014,1,41,English,2
+558,Hacking Exposed Computer Forensics: Computer Forensics Secrets & Solutions,Chris Davis ,45.00,3.67,2004,2,480,English,1
+559,A Computer Scientist's Guide to Cell Biology,William W. Cohen,18.00,3.61,2007,2,99,English,3
+560,Computer Oriented Numerical Methods,V. Rajaram,14.00,3.79,2009,1,196,English,2
+561,Parallel Computer Architecture: A Hardware/Software Approach,David Culler,24.00,3.75,1998,4,1056,English,2
+562,Computer Networking: The Complete Guide to Understanding Wireless Technology Network Security Computer Architecture and Communications Systems,Michael B. White,15.00,3.67,2018,2,327,English,2
+563,Computers and computer systems,Open University,27.00,3.81,1979,1,101,English,3
+564,Computer Science Programming Basics in Ruby,Ophir Frieder ,47.00,3.53,2012,6,188,English,12
+565,Minds and Computers: An Introduction to the Philosophy of Artificial Intelligence,Matt  Carter,40.00,3.48,2007,4,222,English,2
+566,Human Computer Interaction Handbook: Fundamentals Evolving Technologies and Emerging Applications,Julie A. Jacko (Editor),7.00,4.14,2002,2,1518,English,1
+568,Integrated Computer Applications: Microsoft Office 2010,Susie H. VanHuss ,2.00,5.00,2011,2,163,English,0
+570,Hacking: How to Hack Computers Basic Security and Penetration Testing (Hacking How to Hack Hacking for Dummies Computer Hacking penetration testing basic security arduino python),Solis Tech,38.00,3.37,2015,2,112,English,4
+572,Computer and Information Security Handbook,John R. Vacca (Editor),36.00,4.25,2009,10,844,English,1
+573,Introduction to computer forensics and investigations,Open University,36.00,3.39,2015,1,42,English,0
+574,A Computer Scientist's Guide to Cell Biology,William W. Cohen,18.00,3.61,2007,2,99,English,3
+575,Computer Oriented Numerical Methods,V. Rajaram,14.00,3.79,2009,1,196,English,2
+576,Teachers Discovering Computers: Integrating Technology in a Connected World,Gary B. Shelly ,18.00,3.50,2011,3,490,English,3
+577,How to Install Kodi On FireTV stick 2017: Step by Step User Guide to Download Kodi App On Amazon Fire TV Stick Without Computer,Alexa Cody,20.00,3.90,2017,1,44,English,3
+578,Discovering Computers Complete: Your Interactive Guide to the Digital World,Gary B. Shelly ,45.00,3.62,2011,4,830,English,0
+580,Computers Ltd: What They Really Can't Do,David Harel,74.00,3.88,2000,3,240,English,8
+581,An Introduction To Computer Studies,Noel Kalicharan,17.00,4.24,1988,1,384,English,0
+583,Krishnamurthy: Introduct Theory of Computer Science,E.V. Krishnamurthy,7.00,4.00,1985,1,211,English,0
+584,Probability Statistics and Queuing Theory With Computer Science Applications (Computer Science and Scientific Computing),Arnold O. Allen,13.00,4.23,1978,3,768,English,1
+585,Computer Programming For Beginners: Learn The Basics of Java SQL C C++ C# Python HTML CSS and Javascript,Cooper Alvin,25.00,3.08,2020,2,77,English,3
+586,Hacking: Hacking for Beginners Computer Virus Cracking Malware IT Security 2nd Edition,Joseph Connor,29.00,3.31,2015,1,55,English,4
+587,The Haunted Computer and the Android Pope: Poems,Ray Bradbury,44.00,3.55,1981,5,98,English,7
+588,Digitized: The Science of Computers and How It Shapes Our World,Peter J. Bentley,57.00,3.74,2012,5,320,English,6
+589,Introduction to Computer Security,Matt Bishop,33.00,3.52,2004,1,792,English,1
+590,Solutions Manual To Accompany Computer Organization,V. Carl Hamacher,15.00,3.53,1978,1,340,English,2
+591,Advances in Computer Graphics I,Günter Enderle (Contributor) ,0.00,0.00,1986,2,512,English,0
+592,Computer Shortcuts to Simplify Your Life,Aimee Taylor ,1.00,5.00,2014,1,40,English,0
+593,HACKING: The Ultimate Beginners Guide to Becoming a Top Notch Hacker (Hacking Guide Password Cracking Penetration Testing Computer Hacking Computer Security Book 1),Bruce Rogers,37.00,4.05,2019,2,48,English,3
+594,West of Eden: The End of Innocence at Apple Computer,Frank Rose ,63.00,3.81,1989,8,368,English,4
+595,The Business Value of Computers,Paul Strassmann,3.00,4.00,1990,1,530,English,0
+596,Data Communication And Computer Networks,Rajneesh Agrawal ,15.00,3.40,2005,1,397,English,1
+598,The Computer Book: From the Abacus to Artificial Intelligence 250 Milestones in the History of Computer Science,Simson Garfinkel ,24.00,3.88,2018,2,528,English,5
+599,Shaping a Digital World: Faith Culture and Computer Technology,Derek C. Schuurman,57.00,3.72,2013,4,138,English,17
+601,The Computer Game Murder (Galaxy Gang 5),Milton Dank ,2.00,5.00,1985,1,119,English,0
+602,Identification Equivalent Models and Computer Algebra,Paul A. Bekker,0.00,0.00,1993,1,211,English,0
+603,Make Money Online 55 Ways to Make Extra Money Fast Using Your Computer,Steve Scott,50.00,3.08,2012,1,102,English,2
+604,Radiohead: Welcome to the Machine: OK Computer and the Death of the Classic Album,Tim Footman,74.00,3.53,2007,4,288,English,5
+605,Intro to Python for Computer Science and Data Science: Learning to Program with Ai Big Data and the Cloud,Paul Deitel ,10.00,4.00,2019,1,880,English,1
+606,Podcasting For Dummies (For Dummies,Tee Morris ,295.00,3.91,2005,22,373,English,34
+607,Getting Started with CNC: Personal Digital Fabrication with Shapeoko and Other Computer  Controlled Routers,Edward Ford,54.00,3.76,2014,5,166,English,5
+608,Alan Turing: The Life and Legacy of the Computer Scientist Who Became World War Most Famous Codebreaker,Charles River Editors,41.00,4.12,2018,3,70,English,2
+609,3D Game Engine Design: A Practical Approach to Real  Time Computer Graphics,David H. Eberly,57.00,3.44,2000,3,561,English,1
+611,Direct From Dell: Chairman and Chief Executive Officer Dell Computer Corporation,Michael Dell ,1554.00,3.80,1999,19,256,English,54
+613,Computers Of Star Trek,Lois H. Gresh ,48.00,3.25,1999,7,192,English,8
+615,The Story of the Computer: A Technical and Business History,Stephen Marshall ,24.00,4.21,2015,2,592,English,1
+616,Probability and Statistics with Reliability Queuing and Computer Science Applications,Kishor Shridharbhai Trivedi,12.00,4.08,2001,1,848,English,0
+618,Safeware: System Safety and Computers,Nancy G. Leveson,29.00,3.97,1995,1,704,English,3
+619,Introduction to Computer Science,ITL Education Solutions Limited,15.00,4.60,2011,1,528,English,2
+620,Parsing the Turing Test: Philosophical and Methodological Issues in the Quest for the Thinking Computer,Robert Epstein (Editor) ,8.00,4.00,2007,6,517,English,0
+624,Learning Computer Architecture with Raspberry Pi,Eben Upton ,41.00,4.27,2014,8,650,English,3
+626,Principles of Computer Security CompTIA Security+ and Beyond with CD  ROM,William Arthur Conklin ,38.00,3.68,2004,9,691,English,5
+628,Hacking Exposed Computer Forensics: Computer Forensics Secrets & Solutions,Aaron Philipp ,29.00,3.52,2009,2,544,English,2
+629,Steal This Computer Book: What They Won't Tell You about the Internet,Wallace Wang,58.00,3.55,1998,1,320,English,6
+630,Managed Services in a Month: Build a Successful Modern Computer Consulting Business in 30 Days,Karl Palachuk,18.00,3.89,2018,1,316,English,1
+631,Behind human error : cognitive systems computers and hindsight,David D. Woods,29.00,4.21,1994,6,292,English,2
+632,The Complete Guide to Blender Graphics: Computer Modeling and Animation,John M. Blain,35.00,3.77,2012,8,389,English,2
+633,Java: An Introduction to Computer Science and Programming,Walter J. Savitch,31.00,3.77,1998,5,976,English,2
+635,WhatsApp Hack: Computer Master,Gilbert Kofi Grunitzky,18.00,3.56,2015,1,12,English,10
+636,Computer Networking Problems and Solutions: An Innovative Approach to Building Resilient Modern Networks,Russ White ,7.00,4.43,2017,3,832,English,2
+637,Developing Technical Training: A Structured Approach for Developing Classroom and Computer  Based Instructional Materials,Ruth Colvin Clark,57.00,3.81,1989,8,269,English,6
+638,Study Guide for Fundamentals of Engineering (FE) Electrical & Computer CBT Exam: Practice over 500 solved problems with detailed solutions including Alternative Item Types,Wasim Asghar PE,11.00,4.64,2018,1,318,English,1
+639,Computer Architecture and Orga,Miles J. Murdocca (Contributor) ,17.00,3.35,2007,1,524,English,1
+640,Java: An Introduction to Computer Science and Programming,Walter J. Savitch,31.00,3.77,1998,5,976,English,2
+641,Aircraft Digital Electronic and Computer Systems,Michael H. Tooley,27.00,4.41,2006,19,198,English,0
+642,Computer Forensics: Computer Crime Scene Investigation,John R. Vacca,36.00,3.61,2002,5,600,English,2
+643,Click Start Level 4 Student's Book: Computer Science for Schools,Anjna Virmani ,9.00,4.89,2013,1,128,English,2
+644,Discovering Computers 2009 Complete,Gary B. Shelly ,21.00,3.10,2008,2,824,English,2
+645,Data Communications Computer Networks and Open Systems,F. Halsall ,21.00,3.52,1995,1,408,English,0
+646,Journey of the Software Professional: The Sociology of Computer Programming,Luke Hohmann,24.00,3.79,1996,1,449,English,0
+647,A Balanced Introduction to Computer Science,David  Reed,30.00,3.43,2004,8,380,English,5
+648,Heuristics: Intelligent Search Strategies for Computer Problem Solving (The Addison  Wesley series in artificial intelligence),Judea Pearl,13.00,4.00,1984,1,399,English,1
+649,The Absolute Beginner's Guide to Binary Hex Bits and Bytes! How to Master Your Computer's Love Language,Greg Perry,46.00,3.96,2010,4,45,English,3
+650,Anime and the Visual Novel: Narrative Structure Design and Play at the Crossroads of Animation and Computer Games,Dani Cavallaro,10.00,4.50,2009,4,262,English,2
+651,Computer Fundamentals and Programming in C,Pradip Dey ,11.00,4.45,2007,2,479,English,1
+652,Computer Applications in Business (CBCS),Hem Chand Jain & H.N Tiwari,7.00,3.43,2017,1,576,English,0
+653,Engines of the Mind: The Evolution of the Computer from Mainframes to Microprocessors,Joel N. Shurkin,31.00,3.94,1984,3,363,English,3
+654,The Architecture of Computer Hardware System Software and Networking: An Information Technology Approach,Irv Englander,47.00,3.43,2008,4,680,English,2
+655,Engines of the Mind: The Evolution of the Computer from Mainframes to Microprocessors,Joel N. Shurkin,31.00,3.94,1984,3,363,English,3
+656,Incident Response & Computer Forensics,Chris Prosise ,45.00,3.67,2003,1,507,English,3
+658,Discovering Computers & Microsoft Office 2013: A Fundamental Combined Approach,Misty E. Vermaat,28.00,3.93,2013,2,1232,English,2
+659,Steal This Computer Book 2: What They Won't Tell You About the Internet,Wallace Wang,41.00,3.78,2000,1,468,English,2
+660,Anime and the Visual Novel: Narrative Structure Design and Play at the Crossroads of Animation and Computer Games,Dani Cavallaro,10.00,4.50,2009,4,262,English,2
+661,Digital Retro: The Evolution and Design of the Personal Computer,Gordon J. Laing,81.00,4.22,2004,2,192,English,7
+662,Computer Programming: This Book Includes: SQL Linux Java Python C# Arduino C# For Intermediates Arduino For Intermediates Learn Any Computer Language In One Day Step by Step,Steve Tudor,6.00,4.67,2020,2,675,English,0
+663,Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library,Adrian Kaehler ,12.00,4.00,2016,4,1024,English,3
+664,Network Analysis; Theory and Computer Methods,Randall Jensen,0.00,0.00,1974,1,495,English,0
+665,Your Computer Is on Fire,Thomas S. Mullaney (Editor) ,0.00,0.00,2021,2,416,English,0
+666,Science in the Age of Computer Simulation,Eric Winsberg,35.00,3.83,2010,4,168,English,4
+667,Repetitive Strain Injury: A Computer User's Guide,Emil F. Pascarelli ,41.00,3.90,1994,2,240,English,4
+668,Computer Algorithms,Ellis Horowitz,31.00,3.71,1997,3,7,English,1
+669,Space Time Play: Computer Games Architecture and Urbanism: The Next Level,Friedrich von Borries (Editor),30.00,3.83,2007,1,495,English,0
+671,WhatsApp Hack: Computer Master,Gilbert Kofi Grunitzky,18.00,3.56,2015,1,12,English,10
+673,Developing Technical Training: A Structured Approach for Developing Classroom and Computer  Based Instructional Materials,Ruth Colvin Clark,57.00,3.81,1989,8,269,English,6
+675,Computer Architecture and Orga,Miles J. Murdocca (Contributor) ,17.00,3.35,2007,1,524,English,1
+676,Java: An Introduction to Computer Science and Programming,Walter J. Savitch,31.00,3.77,1998,5,976,English,2
+677,Aircraft Digital Electronic and Computer Systems,Michael H. Tooley,27.00,4.41,2006,19,198,English,0
+678,Computer Forensics: Computer Crime Scene Investigation,John R. Vacca,36.00,3.61,2002,5,600,English,2
+680,Discovering Computers 2009 Complete,Gary B. Shelly ,21.00,3.10,2008,2,824,English,2
+681,Data Communications Computer Networks and Open Systems,F. Halsall ,21.00,3.52,1995,1,408,English,0
+682,Journey of the Software Professional: The Sociology of Computer Programming,Luke Hohmann,24.00,3.79,1996,1,449,English,0
+683,A Balanced Introduction to Computer Science,David  Reed,30.00,3.43,2004,8,380,English,5
+684,Heuristics: Intelligent Search Strategies for Computer Problem Solving (The Addison  Wesley series in artificial intelligence),Judea Pearl,13.00,4.00,1984,1,399,English,1
+685,The Absolute Beginner's Guide to Binary Hex Bits and Bytes! How to Master Your Computer's Love Language,Greg Perry,46.00,3.96,2010,4,45,English,3
+686,Anime and the Visual Novel: Narrative Structure Design and Play at the Crossroads of Animation and Computer Games,Dani Cavallaro,10.00,4.50,2009,4,262,English,2
+687,Computer Fundamentals and Programming in C,Pradip Dey ,11.00,4.45,2007,2,479,English,1
+689,Engines of the Mind: The Evolution of the Computer from Mainframes to Microprocessors,Joel N. Shurkin,31.00,3.94,1984,3,363,English,3
+690,Incident Response & Computer Forensics,Chris Prosise ,45.00,3.67,2003,1,507,English,3
+691,The 80x86 IBM PC & Compatible Computers,Muhammad Ali Mazidi,65.00,3.97,1995,3,906,English,1
+692,Raspberry Pi Hacks: Tips & Tools for Making Things with the Inexpensive Linux Computer,Ruth Suehle ,27.00,3.67,2013,7,400,English,3
+693,Anime and the Visual Novel: Narrative Structure Design and Play at the Crossroads of Animation and Computer Games,Dani Cavallaro,10.00,4.50,2009,4,262,English,2
+694,Steal This Computer Book 2: What They Won't Tell You About the Internet,Wallace Wang,41.00,3.78,2000,1,468,English,2
+695,Discovering Computers & Microsoft Office 2013: A Fundamental Combined Approach,Misty E. Vermaat,28.00,3.93,2013,2,1232,English,2
+697,Digital Retro: The Evolution and Design of the Personal Computer,Gordon J. Laing,81.00,4.22,2004,2,192,English,7
+698,Network Analysis; Theory and Computer Methods,Randall Jensen,0.00,0.00,1974,1,495,English,0
+699,Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library,Adrian Kaehler ,12.00,4.00,2016,4,1024,English,3
+702,Science in the Age of Computer Simulation,Eric Winsberg,35.00,3.83,2010,4,168,English,4
+704,Repetitive Strain Injury: A Computer User's Guide,Emil F. Pascarelli ,41.00,3.90,1994,2,240,English,4
+705,Space Time Play: Computer Games Architecture and Urbanism: The Next Level,Friedrich von Borries (Editor),30.00,3.83,2007,1,495,English,0
+706,Microelectronic Circuits (Oxford Series in Electrical and Computer Engineering),Adel S. Sedra ,841.00,4.07,1987,33,1456,English,33
+707,Plan Graphics for the Landscape Designer: With Section  Elevation and Computer Graphics,Tony Bertauski ,27.00,4.26,2002,6,258,English,1
+708,A Computer Called Leo: Lyons Teashops and the World's First Office Computer,Georgina Ferry,77.00,4.39,2003,3,220,English,10
+709,Simply Scheme: Introducing Computer Science,Brian Harvey ,24.00,3.67,1993,4,611,English,3
+710,Microelectronic Circuits (Oxford Series in Electrical and Computer Engineering),Adel S. Sedra ,841.00,4.07,1987,33,1456,English,33
+711,Data Communications and Computer Networks: A Business User's Approach,Curt M. White,41.00,3.39,2000,9,520,English,3
+714,Raspberry Pi For Dummies (For Dummies,Sean McManus ,189.00,3.84,2013,36,504,English,12
+715,Discovering Computers & Microsoft Office 365 & Office 2016: A Fundamental Combined Approach (Shelly Cashman Series),Jennifer T. Campbell ,6.00,4.33,2016,6,1232,English,1
+716,It Began with Babbage: The Genesis of Computer Science,Subrata Dasgupta,11.00,4.18,2013,4,344,English,2
+717,Essentials of Electrical and Computer Engineering [With Removable Reference Cards],David V. Kerns ,11.00,3.64,2004,1,660,English,2
+718,HTET: PGT Computer Science (Level 3) Exam Guide,RPH Editorial Board,13.00,3.92,2020,1,544,English,1
+719,Discrete Structures Logic and Computability,James L. Hein,30.00,3.67,1995,12,943,English,3
+720,The Secret War Between Downloading and Uploading: Tales of the Computer as Culture Machine,Peter Lunenfeld,32.00,3.75,2011,4,219,English,3
+721,Discovering Computers and Microsoft Office 2010: A Fundamental Combined Approach,Gary B. Shelly ,16.00,3.94,2011,1,1000,English,1
+722,Human  Computer Interaction: Concepts and Design,Yvonne Rogers ,32.00,3.38,1994,1,773,English,3
+723,Introduction to Computers and Information Systems,Larry E. Long ,8.00,4.88,1984,4,448,English,0
+724,The Art of 3D Computer Animation and Effects,Isaac Victor Kerlow,30.00,3.97,2003,1,464,English,0
+725,How Computers Work,Roger Young,51.00,3.57,2002,3,152,English,4
+726,Computers and Thought,Edward A. Feigenbaum (Editor),17.00,4.00,1963,5,549,English,1
+727,Computer Programming in C,V. Rajaraman,20.00,4.00,2004,1,372,English,2
+728,Design and Validation of Computer Protocols,Gerard J. Holzmann,15.00,3.93,2008,2,512,English,1
+729,Computer Security Basics,Rick Lehtinen ,34.00,3.74,2006,5,312,English,3
+730,PHP: The Ultimate Crash Course To Learn PHP with Practical Computer Coding Exercises,Computer Programming Academy,2.00,5.00,2020,2,158,English,0
+731,CompTIA A+ Certification All One For Dummies (For Dummies),Glen E. Clarke ,4.00,4.25,2019,3,1193,English,1
+732,When the Machine Made Art: The Troubled History of Computer Art,Grant D. Taylor,12.00,3.83,2014,4,352,English,1
+733,Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming,Al Sweigart ,75.00,4.39,2018,3,416,English,29
+734,The Architecture of Computer Hardware and Systems Software: An Information Technology Approach,Irv Englander,30.00,3.70,1996,7,729,English,1
+736,Computers: Information Technology in Perspective,Larry Long ,14.00,4.07,2001,8,560,English,0
+738,A Guide to Computer User Support for Help Desk and Support Specialists,Fred Beisse,40.00,3.55,1998,16,696,English,1
+739,The Fifth Generation: Artificial Intelligence & Japan's Computer Challenge to the World,Edward A. Feigenbaum ,27.00,3.33,1983,8,275,English,3
+740,Mathematical Structures For Computer Science: Solutions Manual,Judith L. Gersting,3.00,4.33,1986,3,104,English,1
+742,Probability and Random Processes for Electrical and Computer Engineers,Charles W. Therrien ,13.00,3.92,2011,4,431,English,1
+743,Computer Organization and Architecture,Madhulika Jain ,12.00,4.42,2003,1,302,English,3
+744,Understanding Computer Applications with Blue J Class IX ,V.K. Pandey ,8.00,3.88,2018,1,252,English,0
+746,Networking Basics: The Complete Guide on Internet Protocols and OSI Model. Includes a Useful Section about Wireless Home Networking.,COMPUTER NETWORKING SCHOOL,2.00,1.50,2020,2,121,English,1
+747,Cyberpsychology: An Introduction to Human  Computer Interaction,Kent L. Norman,20.00,3.40,2008,7,434,English,4
+748,Stupid Computer!,Jerry D. Young,67.00,4.22,2012,2,61,English,2
+752,Computer  Oriented Numerical Methods,P. Thangaraj,5.00,4.80,2013,3,615,English,2
+754,Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture,Jon Stokes,189.00,4.19,2006,5,320,English,13
+755,Chromatic Algorithms: Synthetic Color Computer Art and Aesthetics after Code,Carolyn L. Kane,14.00,4.36,2014,3,328,English,3
+756,Click Start Level 3 Student eBook: Computer Science for Schools,Anjana Virmani ,15.00,3.93,2016,1,84,English,0
+757,How to Think Like a Computer Scientist: Learning with Python,Jeffrey Elkner ,22.00,4.09,2002,1,288,English,2
+759,A Beginner Guide for Mastering Computer Networking: A Complete Overview on Windows and Hardware Networking Made Easy.,COMPUTER NETWORKING SCHOOL,1.00,4.00,2020,1,114,English,0
+760,Counter Hack: A Step  by  Step Guide to Computer Attacks and Effective Defenses (The Radia Perlman Series in Computer Networking and Security),Ed Skoudis,40.00,3.72,2001,1,592,English,1
+761,Purity in Print: Book Censorship in America from the Gilded Age to the Computer Age,Paul S. Boyer,27.00,3.78,2002,4,520,English,2
+764,Performance by Design: Computer Capacity Planning by Example,Daniel A. Menasce,23.00,3.74,2004,1,462,English,2
+765,Computer Coding for Kids,Carol Vorderman,41.00,4.02,2014,7,224,English,4
+766,Expressive Processing: Digital Fictions Computer Games and Software Studies,Noah Wardrip Fruin,31.00,4.16,2009,5,482,English,3
+768,The Electronic Sweatshop: How Computers are Transforming the Office of the Future,Barbara Garson,19.00,4.05,1989,2,288,English,3
+769,Computer Forensics: Investigating Network Intrusions and Cyber Crime (Ec  Council Press Series: Computer Forensics),EC  Council,33.00,4.21,2009,3,400,English,1
+770,Geometric Algebra for Computer Science: An Object  Oriented Approach to Geometry,Leo Dorst ,33.00,4.06,2007,3,626,English,3
+771,Mathematical Logic for Computer Science,Mordechai Ben  Ari,18.00,3.83,2001,6,354,English,1
+772,Elements of Computer Process Control with Advanced Control Applications,Pradeep B. Deshpande ,7.00,4.00,1981,2,398,English,0
+773,The Eight  Bit Bard: A fantasy novel set to the tune of classic computer role  playing games.,Aaron Rath ,36.00,3.83,2015,3,264,English,7
+774,More than a Game: The Computer Game as Fictional Form,Barry Atkins,35.00,3.51,2003,5,176,English,4
+775,Genetic Programming: An Introduction On The Automatic Evolution Of Computer Programs And Its Applications,Wolfgang Banzhaf,27.00,3.78,1997,5,496,English,2
+776,Teachers Discovering Computers: Integrating Technology and Digital Media in the Classroom,Gary B. Shelly ,46.00,3.52,2005,5,576,English,5
+778,Logic and Discrete Mathematics: A Computer Science Perspective,Winfried Karl Grassmann ,16.00,3.38,1995,2,776,English,1
+781,Computer Science Made Simple: Learn how hardware and software work   and how to make them work for you!,V. Anton Spraul ,16.00,3.62,2005,2,192,English,2
+782,Graph Theory with Applications to Engineering and Computer Science,Narsingh Deo,17.00,4.59,2016,2,496,English,1
+783,C++: The Ultimate Crash Course To Learn C Plus Plus With Practical Computer Coding Exercises,Computer Programming Academy,0.00,0.00,2019,3,208,English,0
+784,Mom Blogging For Dummies,Wendy Piersall ,33.00,3.97,2011,9,384,English,5
+785,Cybersecurity: An Essential Guide to Computer and Cyber Security for Beginners Including Ethical Hacking Risk Assessment Social Engineering Attack and Defense Strategies and Cyberwarfare,Lester Evans,13.00,3.62,2019,3,94,English,1
+786,Counter Hack: A Step  by  Step Guide to Computer Attacks and Effective Defenses (The Radia Perlman Series in Computer Networking and Security),Ed Skoudis,40.00,3.72,2001,1,592,English,1
+787,Physarum Machines: Computers from Slime Mould,Andrew Adamatzky,4.00,3.50,2010,3,266,English,1
+788,Start Your Own Computer Business: Building a Successful PC Repair and Service Business by Supporting Customers and Managing Money,Morris Rosenthal ,43.00,3.60,2002,3,161,English,4
+789,Algorithms for Image Processing and Computer Vision,James R. Parker,26.00,4.00,1996,10,432,English,2
+791,Network Your Computers & Devices Step by Step,Ciprian Adrian Rusen ,17.00,3.53,2010,5,560,English,3
+792,Study Guide for Fundamentals of Engineering (Fe) Electrical and Computer CBT Exam: Practice Over 400 Solved Problems Based on Ncees(r) Fe CBT Specification Version 9.4,Wasim Asghar PE (Contributor),7.00,4.43,2015,1,260,English,2
+793,Computer Viruses for Dummies,Peter H. Gregory,21.00,3.48,2004,1,274,English,4
+795,Coding Literacy: How Computer Programming Is Changing Writing,Annette Vee,17.00,3.53,2017,3,376,English,0
+797,MCQs in Computer Science,Timothy J. Williams,11.00,3.73,2010,3,456,English,0
+798,Think Julia: How to Think Like a Computer Scientist,Ben Lauwens ,28.00,3.79,2019,5,298,English,6
+799,Electronic and Computer Music,Peter Manning,26.00,3.85,1987,12,474,English,2
+800,I Can Be an Actress/I Can Be a Computer Engineer,Susan Marenco,59.00,1.98,2013,4,32,English,21
+801,Analogy  Making as Perception: A Computer Model,Melanie Mitchell,7.00,4.14,1993,2,275,English,0
+802,Hawkeye Collins & Amy Adams in The Case of the Clever Computer Crooks & 8 Other Mysteries (Can You Solve the Mystery? 5),M. Masters,72.00,3.72,1983,9,98,English,3
+803,How To Cancel HBO Free Trial: How To Cancel HBO NOW Subscription On Amazon Prime,Computer Nerds,3.00,2.33,2020,1,12,English,1
+805,How to Model It: Problem Solving for the Computer Age,A.M. Starfield ,14.00,3.93,1990,2,206,English,0
+807,Breakout: How Atari 8 Bit Computers Defined a Generation,Jamie Lendino,68.00,3.81,2017,3,293,English,8
+808,CompTIA A+ For Beginners: The Ultimate Study Guide To Pass Your CompTIA Exam And Get Your Certification,Adam Vardy,9.00,3.00,2016,1,156,English,1
+809,Click Start Level 4 Student eBook: Computer Science for Schools,Anjana Virmani ,7.00,4.71,2016,1,84,English,0
+810,Computer Simulation of Liquids,M.P. Allen ,35.00,4.57,1988,3,408,English,2
+811,The Computer That Ate My Brother,Dean Marney,62.00,3.11,1985,4,128,English,12
+812,Practical Deep Learning for Cloud Mobile and Edge: Real World AI & Computer Vision Projects Using Python Keras & Tensorflow,Anirudh Koul ,14.00,4.50,2019,1,620,English,7
+813,Discrete Mathematics: A Bridge to Computer Science and Advanced Mathematics,Olympia Nicodemi,8.00,3.25,1987,1,491,English,0
+814,Numerical Algorithms: Methods for Computer Vision Machine Learning and Graphics,Justin Solomon,12.00,4.50,2015,3,400,English,0
+815,Mathematica: A System for Doing Mathematics by Computer,Stephen Wolfram,20.00,3.80,1988,4,961,English,0
+817,Computer Science Principles: The Foundational Concepts of Computer Science For AP Computer Science Principles,Kevin Hare ,44.00,4.14,2020,4,258,English,6
+818,New Perspectives on Computer Concepts: Comprehensive,June Jamrich Parsons ,40.00,2.75,1998,11,787,English,0
+819,The Devouring Fungus: Tales of the Computer Age,Karla Jennings,30.00,3.33,1990,2,240,English,5
+820,Is This Thing On? Revised Edition: A Computer Handbook for Late Bloomers Technophobes and the Kicking & Screaming,Abby Stokes ,59.00,4.17,2008,9,448,English,3
+821,Semantics With Applications: An Appetizer,Hanne Riis Nielson ,24.00,3.54,2007,2,288,English,0
+822,Digital Design and Computer Architecture: ARM Edition,Sarah L. Harris ,11.00,4.45,2015,1,584,English,1
+823,The Cryotron Files: The Untold Story of Dudley Buck Pioneer Computer Scientist and Cold War Government Agent,Iain Dey,25.00,3.72,2017,9,304,English,6
+824,Machine Trading: Deploying Computer Algorithms to Conquer the Markets,Ernest P Chang,14.00,3.93,2016,1,264,English,0
+825,The Creepy Computer Mystery (Invisible Inc. 4),Elizabeth Levy ,29.00,3.55,1996,5,48,English,1
+826,Python Programming: Learn Python in a Week and Master It. An Hands On Introduction to Computer Programming and Algorithms a Project Based Guide with Practical Exercises,Computer Programming Academy,2.00,3.00,2020,2,261,English,0
+827,Computer Forensics: Incident Response Essentials,Warren G. Kruse II,33.00,3.88,2001,4,416,English,0
+828,Introductory Logic & Sets for Computer Scientists,N. Nissanke,8.00,4.12,1998,1,352,English,0
+829,Hello Ruby: Journey Inside the Computer,Linda Liukas ,92.00,3.91,2016,8,96,English,16
+830,Journey to the Moon: The History of the Apollo Guidance Computer,Eldon C. Hall,27.00,4.00,1996,1,196,English,3
+832,Inventing the Electronic Century: The Epic Story of the Consumer Electronics and Computer Industries with a New Preface,Alfred D. Chandler Jr.,19.00,3.63,2001,4,321,English,1
+834,LINUX: Learn Linux The Smart Way! Linux for Beginners Guide to: Linux Command Line Linux System & Linux Commands (Computer Science Linux Essentials ... Programming Linux Operating System Book 1),Quick Start Guides,27.00,3.00,2015,1,102,English,0
+835,How to Build a Computer,John Gower III ,14.00,4.50,2011,8,122,English,1
+836,Is This Thing On? Revised Edition: A Computer Handbook for Late Bloomers Technophobes and the Kicking & Screaming,Abby Stokes ,59.00,4.17,2008,9,448,English,3
+837,Semantics With Applications: An Appetizer,Hanne Riis Nielson ,24.00,3.54,2007,2,288,English,0
+838,Changing Minds: Computers Learning and Literacy,Andrea diSessa,18.00,3.61,2000,2,296,English,0
+840,Computer Animation: Algorithms and Techniques (The Morgan Kaufmann Series in Computer Graphics),Rick Parent ,27.00,4.22,2001,9,593,English,0
+841,The Computer Takeover (Choose Your Own Adventure 160),Edward Packard,23.00,4.09,1995,3,10,English,2
+842,50 Fantasy Vehicles to Draw & Paint: Create Awe  inspiring Crafts for Comics Computer Games & Graphic Novels,Keith Thompson,26.00,3.73,2007,2,127,English,3
+843,JAVA: A Beginner to Expert Guide to Learning the Basics of Java Programming (Computer Science Series),James  Patterson,14.00,3.00,2020,1,162,English,0
+844,An Introduction to Computer Science: An Algorithmic Approach,Jean  Paul Tremblay ,29.00,3.83,1980,3,961,English,1
+845,Computer Programming for Beginners: Learn How to Code Step by Step,K. Connors,17.00,3.59,2017,2,83,English,4
+848,Opencv 2 Computer Vision Application Programming Cookbook,Robert Laganiere,43.00,3.98,2011,4,304,English,1
+849,Computer Models of Musical Creativity,David Cope,16.00,4.00,2005,2,462,English,1
+850,CMD Your Computer,Cask J. Thomson,15.00,3.80,2012,4,366,English,4
+852,Build Your Own Gaming PC: The step  by  step manual to building the ultimate computer,Russell Barnes,18.00,3.78,2015,1,192,English,1
+853,Steve Jobs Steve Wozniak and the Personal Computer,Donald Lemke ,33.00,3.48,2006,6,32,English,6
+854,Petroleum Production Engineering: A Computer  Assisted Approach,Boyun Guo ,17.00,4.29,2007,8,288,English,0
+856,The Laptop Repair Workbook: An Introduction to Troubleshooting and Repairing Laptop Computers,Morris Rosenthal,25.00,3.96,2008,1,192,English,1
+857,Introduction to Computer Graphics,Udit Agarwal,11.00,3.00,2020,1,350,English,2
+858,Hacking: Computer Hacking for beginners how to hack and understanding computer security,Adam Dodson,14.00,3.64,2016,1,45,English,3
+859,The Art of Computer Programming Volume 4 Fascicle 6: Satisfiability,Donald Ervin Knuth,12.00,4.42,2015,3,320,English,1
+860,The Computer Game Design Course: Principles Practices And Techniques For The Aspiring Game Designer,Jim Thompson ,32.00,3.66,2007,1,192,English,1
+861,Hacking: Computer Hacking: The Ultimate Computer Hacking Preparation Guide For Beginners,Bill Redwood,13.00,4.15,2015,1,28,English,1
+862,Introduction to Electrical and Computer Engineering,Charles D. Fledderman ,3.00,5.00,2002,1,160,English,0
+863,Franklin and the Computer,Sharon Jennings ,37.00,3.73,2003,6,32,English,3
+865,Dreamweaver 8 For Dummies (For Dummies,Janine Warner,27.00,3.74,1998,8,456,English,3
+866,COMPUTER ARCHITECTURE & ORGANISATION A Conceptual Approach,A.P.Godse ,9.00,3.56,2020,1,698,English,1
+869,Computers And Artificial Intelligence,Lee Smolin ,11.00,3.73,2002,2,176,English,0
+875,Biomedical Informatics: Computer Applications in Health Care and Biomedicine,Edward H. Shortliffe (Editor),55.00,3.87,2006,4,1037,English,2
+876,Utopias Dolphins and Computers: Problems in Philosophical Plumbing,Mary Midgley,31.00,3.65,1996,12,192,English,4
+877,Brain  Computer Interfaces: Principles and Practice,Jonathan Wolpaw (Editor) ,14.00,4.36,2011,3,400,English,0
+879,Yoga for Computer Users: Healthy Necks Shoulders Wrists and Hands in the Postmodern Age,Sandy Blaine,41.00,3.49,2008,6,128,English,8
+880,Why the Mind Is Not a Computer: A Pocket Lexicon of Neuromythology,Raymond Tallis,21.00,3.67,2004,5,97,English,1
+881,A Newbies Guide to Switching to Mac: A Windows Users Guide to Using a Their First Mac Computer,Hunter Travis ,31.00,3.23,2010,2,54,English,3
+882,Programming Abstractions in C: A Second Course in Computer Science,Eric S. Roberts,19.00,3.74,1997,1,819,English,1
+883,Computers & Typesetting Volume B: Tex: The Program,Donald Ervin Knuth,22.00,4.27,1986,1,624,English,0
+884,Computer Control of Manufacturing Systems,Yoram Koren,10.00,4.30,1983,2,287,English,1
+885,Infotech: Student's Book: for Computer Users,Santiago Remacha Esteras,11.00,3.55,2008,1,168,English,0
+887,Sophistication and Simplicity: The Life and Times of the Apple II Computer,Steven Weyhrich ,29.00,4.38,2013,1,565,English,6
+888,An Engineering Approach to Computer Networking: ATM Networks the Internet and the Telephone Network,S. Kesahv ,12.00,4.42,1997,4,688,English,3
+889,Practical Programming: An Introduction to Computer Science Using Python 3,Paul Gries ,10.00,4.40,2013,4,400,English,2
+890,Handbook of Computer Game Studies,Jeffrey H. Goldstein,25.00,3.92,2005,1,200,English,2
+891,Computer Forensics: Principles and Practices,Linda Volonino ,22.00,4.09,2006,1,534,English,1
+892,Infotech: Student's Book: for Computer Users,Santiago Remacha Esteras,11.00,3.55,2008,1,168,English,0
+893,Man  Computer Symbiosis,J.C.R. Licklider,13.00,4.31,1960,2,8,English,2
+894,Computer Addiction?: A Study of Computer Dependency,Margaret A. Shotton,4.00,4.00,1989,3,340,English,0
+895,Practical Programming: An Introduction to Computer Science Using Python 3,Paul Gries ,10.00,4.40,2013,4,400,English,2
+896,Computer Data  Base Organization,James  Martin,8.00,3.88,1975,2,713,English,0
+897,The Computer: An Illustrated History,Mark Frauenfelder ,55.00,3.67,2005,5,256,English,8
+898,From Computer to Brain: Foundations of Computational Neuroscience,William W. Lytton,16.00,3.75,2002,3,364,English,2
+899,On the cruelty of teaching Computer Science,Edsger W. Dijkstra,19.00,4.11,1988,1,14,English,5
+900,GRE Computer Science (REA) 5th Ed. The Best Test Prep for the GRE,Benjamin Wells,6.00,3.67,2004,2,192,English,0
+902,Minds Brains and Computers: An Historical Introduction to the Foundations of Cognitive Science,Robert Cummins (Editor) ,11.00,3.91,2000,1,564,English,1
+904,Digital Contagions: A Media Archaeology of Computer Viruses,Jussi Parikka,5.00,4.40,2007,7,327,English,0
+905,After Thought: The Computer Challenge To Human Intelligence,James Bailey ,24.00,3.67,1996,2,288,English,6
+909,Concepts of Pattern Grading: Techniques for Manual and Computer Grading,Carolyn L. Moore ,6.00,4.67,2000,1,275,English,1
+910,EnCase Computer Forensics: The Official EnCE EnCase Certified Examiner Study Guide,Steve Bunting,29.00,3.66,2007,1,648,English,1
+911,"Solutions Manual Accompanying ""Elements Of Electromagnetics"" (The Oxford Series In Electrical & Computer Engineering)",Matthew N.O. Sadiku ,12.00,3.83,1997,2,424,English,0
+912,Computer Systems: An Integrated Approach to Architecture and Operating Systems,Umakishore Ramachandran ,15.00,4.40,2010,3,756,English,3
+915,Thesis Projects: A Guide for Students in Computer Science and Information Systems,Mikael Berndtsson ,14.00,3.29,2007,2,162,English,2
+916,Computer Integrated Design and Manufacturing,David D. Bedworth ,10.00,4.10,1995,2,653,English,1
+917,The Encyclopedia of Game Machines: Consoles Handhelds & Home Computers 1972–2005,Winnie Forster,30.00,4.23,2005,2,224,English,2
+918,The Magic Machine: A Handbook of Computer Sorcery,A.K. Dewdney,35.00,4.14,1990,3,357,English,2
+919,Usability Engineering: Scenario Based Development of Human Computer Interaction,Mary Beth Rosson ,21.00,3.29,2001,6,448,English,1
+920,Personal Computer Repair & Maintenance: A Practical Guide,Joel Rosenthal ,4.00,4.50,2003,1,346,English,1
+921,Computers & Typesetting Volume C: The Metafont Book,Donald Ervin Knuth,30.00,4.17,1986,3,384,English,0
+922,Advanced Engineering Mathematics: A Computer Approach [With CDROM],N.P. Bali ,11.00,4.55,2006,4,1606,English,1
+923,Computer Repair with Diagnostic Flowcharts Revised Edition: Troubleshooting PC Hardware Problems from Boot Failure to Poor Performance,Morris Rosenthal,61.00,3.98,2008,4,120,English,4
+924,Computers and Their Applications to Chemistry,Ramesh Kumari,5.00,5.00,2002,2,350,English,0
+925,Introduction to Computers and Data Processing,Gary B. Shelly ,6.00,4.00,1980,2,474,English,3
+926,Out of the Inner Circle: A Hacker's Guide to Computer Security,Bill Landreth,32.00,3.59,1985,1,230,English,1
+927,Geometric Tools for Computer Graphics,Philip J. Schneider ,29.00,4.03,2002,5,1056,English,1
+928,Concepts of Pattern Grading 2nd Edition: Techniques for Manual and Computer Grading,Kathy K. Mullet ,13.00,3.15,2008,1,240,English,1
+930,Cambridge International as & a Level Computer Science,David  Watson ,4.00,3.50,2019,3,550,English,1
+931,Computer Organization and Assembly Language Programming: For IBM PC's and Compatibles,Michael Thorne,10.00,3.90,1991,1,716,English,0
+932,Queueing Systems Volume 2: Computer Applications,Leonard Kleinrock (Contributor),9.00,4.11,1976,1,576,English,0
+933,Principles of Digital Image Processing: Fundamental Techniques,Wilhelm Burger ,11.00,4.09,2009,1,259,English,1
+934,3D Computer Graphics,Alan Watt,18.00,3.44,1993,1,500,English,0
+935,3D Computer Graphics,Alan H. Watt,14.00,3.71,1999,1,500,English,0
+936,Computer Science,Les Goldschlager,19.00,3.42,1982,4,344,English,1
+937,Computer Hacking: A beginners guide to computer hacking how to hack internet skills hacking techniques and more!,Joe Benton,27.00,2.96,2015,3,26,English,6
+939,Paranoia A1 The Computer is your Friend,Allen Varney (Editor) ,29.00,3.86,2012,2,120,English,4
+940,New Perspectives on Computer Concepts 2012: Comprehensive,June Jamrich Parsons ,32.00,3.22,2011,2,872,English,3
+941,Term Life: A Novel of Love Death and Computer Security,William H. Boyd,12.00,3.67,2017,2,347,English,0
+942,Computers. Comprehensive: Understanding Technology,Floyd Fuller ,12.00,4.00,2002,12,896,English,3
+943,Fatal Defect: Chasing Killer Computer Bugs,Ivars Peterson,29.00,3.69,1995,6,288,English,5
+944,Computer Manual in MATLAB to Accompany Pattern Classification,David G. Stork,13.00,3.77,2004,3,134,English,1
+946,From Computer to Brain: Foundations of Computational Neuroscience,William W. Lytton,16.00,3.75,2002,3,364,English,2
+947,The First Computers: History and Architectures,Raul Rojas (Editor),18.00,3.61,2000,3,472,English,1
+948,The Cache Memory Book (The Morgan Kaufmann Series in Computer Architecture and Design),Jim Handy,13.00,4.62,1993,3,229,English,0
+950,Godman,Cit Computer Science,4.00,4.25,1985,1,256,English,0
+951,Amazon Echo: Amazon Echo User Guide (Technology Mobile Communication kindle alexa computer hardware),Scott Davidson,33.00,3.21,2015,2,70,English,2
+952,  for Computer Science,Norma D. Mullen ,8.00,3.50,1988,1,240,English,1
+953,Programming: Learn the Fundamentals of Computer Programming Languages (Swift C++ C# Java Coding Python Hacking programming tutorials),Marc Rawen,9.00,3.11,2016,1,126,English,0
+954,A Practical Introduction to Computer Architecture,Daniel Page,4.00,4.50,2009,2,641,English,0
+955,Data Structures and Algorithms with Python,Kent D. Lee ,9.00,3.56,2015,2,380,English,0
+956,The Beginner's Guide to Computer  Based Music Production,Zack Price,6.00,3.33,2005,2,208,English,0
+957,Hacking for Beginners: A Step by Step Guide to Learn How to Hack Websites Smartphones Wireless Networks Work with Social Engineering Complete a Penetration Test and Keep Your Computer Safe,Julian James McKinnon,3.00,4.67,2019,2,127,English,2
+958,Computer Security Literacy: Staying Safe in a Digital World,Douglas Jacobson ,10.00,3.90,2012,8,368,English,4
+959,The Library Book: The Story of Libraries from Camels to Computers,Maureen Sawa ,29.00,3.97,2006,1,72,English,11
+960,Securing the Cloud: Cloud Computer Security Techniques and Tactics,Vic (J.R.) Winkler,25.00,3.64,2011,2,290,English,2
+961,Computers. Comprehensive: Understanding Technology,Floyd Fuller ,12.00,4.00,2002,12,896,English,3
+962,Fatal Defect: Chasing Killer Computer Bugs,Ivars Peterson,29.00,3.69,1995,6,288,English,5
+963,Bit by Bit: An Illustrated History of Computers,Stan Augarten,19.00,4.11,1984,2,324,English,1
+964,Windows 10 Made Easy: Take Control of Your PC (Computers Made Easy Book 2),James Bernstein ,2.00,4.50,2018,2,147,English,0
+965,Priceless Computer Tips at Your Fingertips,Sudhir Diddee,4.00,3.25,2011,2,166,English,0
+966,Without Me You're Nothing: The Essential Guide to Home Computers,Frank Herbert ,19.00,3.26,1980,3,304,English,3
+967,Computers: An Illustrated History,Christian Wurster,20.00,4.15,2002,2,329,English,2
+968,Computer Game Design: Theory and Practice [With CDROM],Richard Rouse III ,23.00,3.35,2001,1,584,English,0
+969,Computer Forensics Jumpstart,Michael G. Solomon ,36.00,3.58,2004,14,283,English,3
+971,The Giant Black Book Of Computer Viruses,Mark A. Ludwig,19.00,4.05,1998,2,662,English,1
+972,Switching and Finite Automata Theory: Computer Science Series,Zvi Kohavi,20.00,3.90,1978,8,658,English,0
+973,The Merlin Gambit,John F. Carr ,33.00,4.00,2014,2,228,English,2
+974,Virtual Muse: Experiments In Computer Poetry,Charles O. Hartman,26.00,3.81,1996,4,152,English,1
+975,Die Frau Für Die Ich Den Computer Erfand,Friedrich Christian Delius,40.00,3.35,2009,3,283,German,3
+976,Cambridge International AS and A Level Computer Science Coursebook,Sylvia Langfield ,4.00,2.75,2015,1,448,English,1
+978,Introductory Discrete Mathematics (Dover Books on Computer Science),V.K. Balakrishnan,21.00,4.00,1991,5,260,English,1
+979,Computer  Assisted Language Learning: Context and Conceptualization,Michael Levy,16.00,4.31,1997,3,320,English,2
+980,Context and Consciousness: Activity Theory and Human  Computer Interaction,Bonnie A. Nardi (Editor),10.00,3.90,1995,2,414,English,0
+981,Computer Game Design: Theory and Practice [With CDROM],Richard Rouse III ,23.00,3.35,2001,1,584,English,0
+982,Computer Forensics Jumpstart,Michael G. Solomon ,36.00,3.58,2004,14,283,English,3
+983,Out of the Inner Circle: A Hacker's Guide to Computer Security,Bill Landreth,32.00,3.59,1985,1,230,English,1
+984,Interactive Computer Graphics: A Top  Down Approach with Shader  Based OpenGL,Edward Angel ,26.00,3.88,2011,3,730,English,0
+985,macOS Catalina For Dummies (For Dummies,Bob LeVitus,3.00,3.67,2019,1,528,English,1
+986,Gaming the Iron Curtain: How Teenagers and Amateurs in Communist Czechoslovakia Claimed the Medium of Computer Games,Jaroslav,8.00,4.62,2018,3,400,English,1
+988,Steve Jobs & Steve Wozniak: Geek Heroes Who Put the Personal in Computers,Mike Venezia,33.00,3.88,2010,2,32,English,3
+989,Computers as Components: Principles of Embedded Computing System Design,Marilyn Wolf,18.00,3.72,2012,7,500,English,5
+990,Computers And Commonsense,Roger Hunt ,12.00,4.08,1977,5,208,English,1
+991,Computers R4U2 Book 1 The Basic User,Edward Henheffer ,17.00,4.82,2014,1,78,English,3
+992,Computers in Novels (Book Guide): Cryptonomicon Snow Crash Microserfs 2001: A Space Odyssey Permutation City Digital Fortress Daemon,Books LLC,2.00,5.00,2010,1,88,English,0
+993,Computer Integrated Manufacturing,James A. Rehg,18.00,4.06,1994,3,592,English,1
+994,Turing's Man: Western Culture in the Computer Age,J. David Bolter,19.00,3.84,1984,6,276,English,2
+995,A Gentle Introduction to Computer Programming Fundamentals,S.C. Shaffer ,10.00,2.20,2013,2,184,English,1
+998,Electronic Brains: Stories from the Dawn of the Computer Age,Mike Hally,50.00,4.00,2005,3,275,English,4
+999,Computers and Society,Richard Hamming ,3.00,3.67,1972,1,288,English,0
+1000,How To Do Just About Anything On A Computer,Reader's Digest Association,15.00,3.60,2000,6,384,English,1
+1001,Data Structures and Algorithms with Python,Kent D. Lee ,9.00,3.56,2015,2,380,English,0
+1002,Mastering OpenCV with Practical Computer Vision Projects,Shervin Emami ,15.00,4.27,2012,1,340,English,3
+1003,Read Me First! a Style Guide for the Computer Industry,Sun Technical Publications,21.00,4.29,2003,2,384,English,3
+1004,Virtual Music: Computer Synthesis of Musical Style,David Cope,16.00,3.69,2001,4,580,English,2
+1005,Design for Electrical and Computer Engineers: Theory Concepts and Practice,Ralph Ford ,11.00,3.91,2005,2,320,English,1
+1006,The Beginner's Guide to Engineering: Computer Engineering,James Lance,5.00,3.00,2013,6,158,English,0
+1007,Computer Architecture: From Microprocessors to Supercomputers,Behrooz Parhami ,10.00,3.80,2005,1,556,English,0
+1008,Computer Speaks: God's Message to the World,Rashad Khalifa,11.00,3.82,1981,1,525,English,2
+1009,eGods: Faith Versus Fantasy in Computer Gaming,William Sims Bainbridge,8.00,3.12,2013,3,328,English,1
+1010,Virtual Music: Computer Synthesis of Musical Style,David Cope,16.00,3.69,2001,4,580,English,2
+1012,Zen Computer,Philip Toshio Sudo,37.00,3.19,1999,6,224,English,6
+1013,Library Research Models: A Guide to Classification Cataloging and Computers,Thomas Mann,43.00,3.49,1993,2,264,English,7
+1014,The Little Black Book of Computer Viruses: The Basic Technology: 001,Mark A. Ludwig,14.00,3.86,1991,2,192,English,0
+1015,Ada Lovelace Poet of Science: The First Computer Programmer,Diane Stanley ,724.00,4.02,2016,4,40,English,186
+1016,Barron's AP Computer Science A,Roselyn Teukolsky,23.00,3.96,2015,2,504,English,3
+1017,A Digital Signal Processing Primer: With Applications to Digital Audio and Computer Music,Ken Steiglitz,16.00,4.06,1996,2,314,English,0
+1018,Moving Innovation: A History of Computer Animation,Tom Sito,17.00,3.65,2013,5,362,English,2
+1019,Chemical Process Modelling and Computer Simulation,Amiya K. Jana,3.00,4.67,2011,3,531,English,0
+1020,RUBY: 2nd Edition! Beginner's Crash Course Ruby for Beginners Guide to: Ruby Programming Ruby On Rails Rails Programming (Data Structures Data Science ... Computer Science Computer Book 1),Quick Start Guides,10.00,3.70,2015,1,147,English,0
+1021,Computer Studies and Information Technology: IGSCE and O Level,Chris Leadbetter,7.00,4.14,2004,1,212,English,0
+1023,Opencv Computer Vision with Python,Joseph Howse,24.00,3.46,2013,5,122,English,3
+1024,The Next World War: Computers Are the Weapons and the Front Line Is Everywhere,James Adams,35.00,3.71,1998,4,366,English,1
+1025,New Perspectives on Computer Concepts 2013: Comprehensive (New Perspectives (Course Technology Paperback)),June Jamrich Parsons ,6.00,3.33,2012,3,864,English,0
+1026,Python: The Definitive Guide to Learning Python Programming for Beginners,Joseph Connor,13.00,3.23,2015,1,23,English,1
+1027,The Trouble with Computers: Usefulness Usability and Productivity,Thomas K. Landauer,17.00,3.29,1995,3,440,English,2
+1028,Cambridge International AS and A Level Computer Science Coursebook,Sylvia Langfield ,4.00,2.75,2015,1,448,English,1
+1029,Mastering OpenCV with Practical Computer Vision Projects,Shervin Emami ,15.00,4.27,2012,1,340,English,3
+1030,Computer Hardware: Installation Interfacing Troubleshooting and Maintenance,K.L. James,4.00,3.00,2013,3,304,English,1
+1032,A Practical Guide to Computer Forensics Investigations,Darren R. Hayes,19.00,4.32,2012,4,528,English,4
+1033,How to Tune and Modify Automotive Engine Management Systems All New Edition: Upgrade Your Engine to Increase Horsepower * Understand Computer  Assisted Engine Control * Evaluate and Troubleshoot OEM and Aftermarket Systems * Tune Your Car for Maximum ...,Jeff Hartman,5.00,4.00,2013,1,336,English,1
+1034,Instructional Technology for Teaching and Learning: Designing Instruction Integrating Computers and Using Media,Timothy J. Newby ,17.00,4.12,1999,7,313,English,1
+1035,How to Think Like a Computer Scientist: C++ Version,Allen B. Downey ,16.00,3.62,2009,1,192,English,5
+1038,Charles Babbage: Pioneer of the Computer,Anthony Hyman,14.00,3.43,1982,4,340,English,3
+1039,From Literature to Biterature: Lem Turing Darwin and Explorations in Computer Literature Philosophy of Mind and Cultural Evolution,Peter Swirski,25.00,4.20,2013,3,235,English,13
+1040,Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers,Roy Yates ,18.00,3.78,2004,1,519,English,3
+1041,The CNC Cookbook: An Introduction to the Creation and Operation of Computer Controlled Mills Router Tables Lathes and More,E. Hess,25.00,3.36,2009,1,224,English,2
+1043,Computer Wars: The Fall of IBM and the Future of Global Technology,Charles Ferguson,11.00,3.82,1993,1,272,English,2
+1044,Stack Computers: The New Wave,Philip Koopman,12.00,4.00,2013,1,521,English,1
+1045,Computers and the Imagination: Visual Adventures Beyond the Edge,Clifford A. Pickover,21.00,4.05,1991,3,419,English,1
+1046,Computer Coding (DK Workbooks),Jon Woodcock,20.00,4.20,2014,1,40,English,2
+1048,Concrete Abstractions: An Introduction to Computer Science Using Scheme,Max Hailperin ,9.00,3.89,1998,1,800,English,0
+1049,Diabetes Cookbook,British Computer Society,10.00,3.70,2000,1,128,English,0
+1050,Computer  Based Industrial Control,Krishna Kant,17.00,4.06,2003,4,536,English,0
+1051,The Government Machine: A Revolutionary History of the Computer,Jon Agar,14.00,4.00,2003,4,564,English,1
+1053,The Lenovo Affair: The Growth of China's Computer Giant and Its Takeover of IBM  PC,Zhijun Ling,30.00,3.67,2006,2,375,English,5
+1054,Stack Computers: The New Wave,Philip Koopman,12.00,4.00,2013,1,521,English,1
+1055,Computers and the Imagination: Visual Adventures Beyond the Edge,Clifford A. Pickover,21.00,4.05,1991,3,419,English,1
+1056,Basic Computer Games,David H. Ahl (Editor),49.00,4.41,1978,2,183,English,6
+1058,Introduction to Computer Networks and Cybersecurity,Chwan  Hwa Wu ,7.00,4.43,2013,1,1382,English,0
+1059,User  Centered Technology: A Rhetorical Theory for Computers and Other Mundane Artifacts,Robert R. Johnson,30.00,3.73,1998,3,195,English,3
+1060,Fighting Computer Crime: A New Framework for Protecting Information,Donn B. Parker,13.00,3.69,1983,4,528,English,2
+1062,When Computers Can Think: The Artificial Intelligence Singularity,Anthony Berglas ,22.00,3.68,2015,3,485,English,4
+1063,Raspberry Pi: A Beginners Guide with Over 20 Projects for the Pocket  Sized Computer: Projects for the Raspberry Pi 2 B+ and A+,James K. Sargent ,26.00,3.38,2015,1,191,English,1
+1064,Il computer di Dio. Pensieri di un matematico impertinente,Piergiorgio Odifreddi,20.00,2.90,2000,1,267,Italian,1
+1065,Who Invented the Computer? The Legal Battle That Changed Computing History,Alice Rowe Burks ,10.00,3.60,2003,1,415,English,0
+1066,Advanced Computer Architecture,Richard Y. Kain,4.00,4.50,1995,1,907,English,1
+1067,Computer  Related Risks,Peter G. Neumann,12.00,3.67,1994,5,384,English,1
+1068,Computer  Aided Analysis of Power Electronic Systems,V. Rajagopalan,9.00,4.78,1987,1,552,English,0
+1069,Computer Curmudgeon,Guy Kawasaki ,15.00,3.47,1993,1,160,English,3
+1071,Computer  Related Risks,Peter G. Neumann,12.00,3.67,1994,5,384,English,1
+1072,Computer  Aided Analysis of Power Electronic Systems,V. Rajagopalan,9.00,4.78,1987,1,552,English,0
+1074,What Did Jesus Drive?: Crisis PR in Cars Computers and Christianity,Jason H. Vines,52.00,3.94,2014,3,401,English,10
+1076,Computer  Aided Analysis of Power Electronic Systems,V. Rajagopalan,9.00,4.78,1987,1,552,English,0
+1078,Autism and Gender: From Refrigerator Mothers to Computer Geeks,Jordynn Jack ,11.00,3.18,2014,5,320,English,1
+1079,Getting E  books from your Computer to the Kindle,Lynnette Kuipers,25.00,2.84,2009,1,15,English,0
+1080,Foundations of Computer Music,Curtis Roads (Editor),9.00,4.33,1985,2,712,English,0
+1081,Automotive Electricity Electronics and Computer Controls,Barry Hollembeak,6.00,4.67,1998,1,512,English,1
+1083,Position Yourself for Online Sales Success: How to Use Your Phone and Computer to Finally Set Yourself Free!,Lisa Sasevich ,18.00,3.56,2015,1,65,English,2
+1085,How Computer Programming Works,Daniel Appleman,16.00,3.38,1994,2,226,English,2
+1086,Encyclopedia of Computer Science and Technology,Harry Henderson,8.00,4.50,2003,4,580,English,0
+1087,Gaffers Grips and Best Boys: From Producer  Director to Gaffer and Computer Special Effects Creator a Behind  the  Scenes Look at Who Does What in the Making of a Motion Picture,Eric Taub,20.00,3.15,1987,2,272,English,3
+1089,Assembly Language and Computer Architecture Using C++ and Java,Anthony J. Dos Reis,6.00,4.00,2004,1,773,English,0
+1090,Il computer di Dio. Pensieri di un matematico impertinente,Piergiorgio Odifreddi,20.00,2.90,2000,1,267,Italian,1
+1092,How to Be a Geek Goddess: Practical Advice for Using Computers with Smarts and Style,Christina Tynan  Wood,17.00,3.00,2008,2,338,English,3
+1094,The Nurnberg Funnel: Designing Minimalist Instruction for Practical Computer Skill,John Millar Carroll ,9.00,4.00,1990,2,362,English,1
+1095,The Human  Computer Interaction Handbook: Fundamentals Evolving Technologies and Emerging Applications Second Edition,Andrew Sears (Editor),6.00,4.33,2007,3,1358,English,1
+1098,How to Be a Geek Goddess: Practical Advice for Using Computers with Smarts and Style,Christina Tynan  Wood,17.00,3.00,2008,2,338,English,3
+1100,The Nurnberg Funnel: Designing Minimalist Instruction for Practical Computer Skill,John Millar Carroll ,9.00,4.00,1990,2,362,English,1
+1101,The Human  Computer Interaction Handbook: Fundamentals Evolving Technologies and Emerging Applications Second Edition,Andrew Sears (Editor),6.00,4.33,2007,3,1358,English,1
+1104,Principles of Computer Networks and Communications,M. Barry Dumas ,9.00,2.89,2007,2,519,English,2
+1110,Extremal Combinatorics: With Applications in Computer Science,Stasys Jukna,15.00,4.53,2001,4,375,English,0
+1112,ENIAC in Action: Making and Remaking the Modern Computer,Thomas Haigh ,11.00,4.18,2016,4,366,English,0
+1116,How to Speed  Up your Windows PC like it's brand new again: Easy steps anyone can do to make your computer as snappy as it was the day you bought it! (Computer tips Book 1),Kevin Meininger,18.00,3.39,2015,1,28,English,2
+1118,Computer Programming for Teens,Mary E. Farrell,6.00,3.33,2007,1,352,English,1
+1119,Complete Digital Design: A Comprehensive Guide to Digital Electronics and Computer System Architecture,Mark Balch,7.00,4.29,2003,8,460,English,0
+1123,Research Methods for Human  Computer Interaction,Paul Cairns (Editor) ,15.00,4.00,2008,3,242,English,0
+1125,Firewalls Don't Stop Dragons: A Step  By  Step Guide to Computer Security for Non  Techies,Carey Parker ,33.00,4.15,2015,8,400,English,9
+1126,Computers For Seniors For Dummies,Nancy C. Muir,42.00,3.45,2008,27,432,English,2
+1127,Secrets of Computer Espionage: Tactics and Countermeasures,Joel McNamara,18.00,3.89,2003,3,384,English,6
+1129,Foundations of 3D Computer Graphics,Steven J. Gortler,13.00,4.00,2012,3,273,English,0
+1131,Flow Around Circular Cylinders: A Comprehensive Guide Through Flow Phenomena Experiments Applications Mathematical Models and Computer Simulations Volume 1,M.M. Zdravkovich,4.00,5.00,1997,1,694,English,0
+1132,Hacking: Hacking For Beginners and Basic Security: How To Hack,Jacob Hatcher,14.00,3.29,2015,1,101,English,0
+1135,From Whirlwind to MITRE: The R&D Story of the SAGE Air Defense Computer,Kent C. Redmond ,12.00,3.42,2000,1,535,English,3
+1136,Computer Science & Perl Programming: Best of The Perl Journal,Jon Orwant (Editor),17.00,4.18,2002,5,762,English,2
+1137,The Mammoth Book of Chess with Internet Games: New Edition Featuring Internet and Computer Games,Graham Burgess ,167.00,4.00,2009,5,512,English,7
+1138,ENIAC in Action: Making and Remaking the Modern Computer,Thomas Haigh ,11.00,4.18,2016,4,366,English,0
+1144,Computer Networking: Internet Protocols in Action,Jeanna Matthews,12.00,4.00,2005,1,288,English,1
+1146,Introduction to Cryptography with Mathematical Foundations and Computer Implementations,Alexander Stanoyevitch,12.00,4.00,2010,2,649,English,2
+1148,Zen and the Art of Systems Analysis: Meditations on Computer Systems Development,Patrick McDermott,14.00,4.29,2002,1,200,English,2
+1149,Make: Getting Started with Raspberry Pi: Electronic Projects with the Low  Cost Pocket  Sized Computer,Matt Richardson ,314.00,3.82,2012,15,200,English,30
+1152,How to Maximize Your Child's Learning Ability: A Complete Guide to Choosing and Using the Best Computer Games Activities Learning AIDS Toys and Tactics for Your Child,Lauren Bradway ,11.00,3.73,2001,2,272,English,2
+1154,Hacking: Hacking For Beginners and Basic Security: How To Hack,Jacob Hatcher,14.00,3.29,2015,1,101,English,0
+1161,Computer  Controlled Systems: Theory and Design,Karl Johan Åström,20.00,3.95,1984,5,557,English,0
+1162,Introductory Digital Signal Processing with Computer Applications,Paul A. Lynn ,5.00,4.20,1989,4,496,English,1
+1165,Computer Sound Design: Synthesis Techniques and Programming [With CDROM],Eduardo Miranda,10.00,3.70,2002,1,263,English,1
+1166,How Did We Find Out About Computers?,Isaac Asimov,10.00,3.60,1984,2,54,English,1
+1167,Click Start Level 7: Computer Science for Schools,Anjana Virmani ,13.00,4.15,2016,1,84,English,0
+1168,More Basic Computer Games,David H. Ahl,27.00,4.33,1979,2,185,English,3
+1169,Microsoft Excel Functions and Formulas Covers Excel 2010 2nd Edition,Bernd Held,5.00,4.00,2011,2,450,English,0
+1170,Computer Concepts: Brief,June Jamrich Parsons ,4.00,3.50,1996,11,160,English,5
+1171,Computer Hacking,Peggy G. Parks,12.00,4.50,2008,1,104,English,1
+1172,Real Time Computer Control,Stuart Bennett,3.00,3.67,1984,3,362,English,0
+1173,Peripheral Vision: Bell Labs the S  C 4020 and the Origins of Computer Art,Zabet Patterson,16.00,3.69,2015,3,152,English,3
+1174,User  Centered Web Site Development: A Human  Computer Interaction Approach [With CDROM],Rosalee J. Wolfe ,17.00,3.41,2003,1,336,English,1
+1175,365 Unplugged Family Fun Activities: A Year's Worth of Ideas for TV  Free Video  Free and Computer Game  Free Entertainment,Steven J. Bennett ,11.00,3.82,2004,1,400,English,3
+1176,Mastering Computer Typing Revised Edition,Sheryl Lindsell  Roberts,15.00,4.80,1995,2,208,English,0
+1178,The Cissp Prep Guide: Mastering the Ten Domains of Computer Security,Ronald L. Krutz ,29.00,3.45,2001,3,576,English,1
+1180,The Happy Hacker: A Guide to (Mostly) Harmless Computer Hacking,Carolyn Meinel,22.00,3.05,1998,4,0,English,1
+1182,Make: Getting Started with Raspberry Pi: Electronic Projects with the Low  Cost Pocket  Sized Computer,Matt Richardson ,314.00,3.82,2012,15,200,English,30
+1183,Analyzing Computer Security: A Threat / Vulnerability / Countermeasure Approach,Charles P. Pfleeger ,23.00,3.83,2011,5,799,English,0
+1184,The Renderman Companion: A Programmer's Guide to Realistic Computer Graphics,Steve Upstill,19.00,3.68,1990,1,496,English,0
+1185,Discrete Mathematics for Computer Scientists,Clifford Stein ,8.00,3.50,2010,5,495,English,1
+1186,Discrete Mathematics Using a Computer,John M. O'Donnell,9.00,4.33,2006,1,441,English,2
+1188,Computer Applications in Second Language Acquisition,Carol A. Chapelle,9.00,3.33,2001,3,236,English,1
+1189,Principles of Computer Integrated Manufacturing,S. Kant Vajpayee ,4.00,2.50,1995,1,640,English,0
+1190,Make: Getting Started with Raspberry Pi: Electronic Projects with the Low  Cost Pocket  Sized Computer,Matt Richardson ,314.00,3.82,2012,15,200,English,30
+1191,Computer Games: Text Narrative and Play,Diane Carr ,19.00,3.00,2006,4,210,English,3
+1192,Computer Science Handbook,Allen B. Tucker Jr. (Editor),4.00,3.50,2004,6,2752,English,0
+1193,365 Unplugged Family Fun Activities: A Year's Worth of Ideas for TV  Free Video  Free and Computer Game  Free Entertainment,Steven J. Bennett ,11.00,3.82,2004,1,400,English,3
+1194,Programming: SQL: Programming Guide: Javascript and Coding: LEARN IN A DAY!,Os Swift,9.00,4.11,2015,1,90,English,0
+1195,Understanding Computers 2000,Deborah Morley ,7.00,3.71,1991,12,656,English,0
+1199,Computer Sound Design: Synthesis Techniques and Programming [With CDROM],Eduardo Miranda,10.00,3.70,2002,1,263,English,1
+1200,How Did We Find Out About Computers?,Isaac Asimov,10.00,3.60,1984,2,54,English,1
+1201,Do  It  Yourself Java Games: An Introduction to Java Computer Programming,Annette M. Godtland ,6.00,3.67,2013,1,515,English,0
+1202,Logic Programming and Databases,Stefano Ceri ,11.00,3.27,1990,4,284,English,1
+1203,Internet Addiction: The Ultimate Guide for How to Overcome An Internet Addiction For Life,Caesar Lincoln,10.00,4.10,2014,2,46,English,1
+1205,Power Reference Manual for the Electrical and Computer PE Exam,John A. Camara,13.00,4.08,2010,2,792,English,2
+1206,Readings In Computer Architecture,Mark D. Hill (Editor),6.00,4.00,1999,2,650,English,1
+1207,Interactive Computer Graphics: A Top  Down Approach with WebGL,Edward Angel ,12.00,3.00,2014,3,702,English,1
+1210,The Happy Hacker: A Guide to (Mostly) Harmless Computer Hacking,Carolyn Meinel,22.00,3.05,1998,4,0,English,1
+1212,One Jump Ahead: Computer Perfection at Checkers,Jonathan Schaeffer ,22.00,4.27,1997,4,585,English,4
+1213,Before the Computer: Ibm Ncr Burroughs and Remington Rand and the Industry They Created 1865  1956,James W. Cortada,8.00,3.88,1992,5,402,English,0
+1214,Three Views of Logic: Mathematics Philosophy and Computer Science,Donald W. Loveland ,5.00,3.60,2013,4,322,English,0
+1215,Computer,Mike Goldsmith ,23.00,4.17,2011,3,72,English,4
+1217,Digital Principles and Logic Design (Engineering) (Computer Science) (Engineering Series),Arijit Saha ,9.00,3.89,2007,1,480,English,1
+1221,Hacking: Beginner's Guide for Computer Hacking Mobile Hacking and Penetrate Tests Book,Bill  Adams,19.00,3.21,2015,2,29,English,2
+1226,Computer  Based Exercises for Signal Processing Using MATLAB Ver.5,James H. McClellen ,6.00,4.33,1997,1,408,English,1
+1227,Internet Addiction: The Ultimate Guide for How to Overcome An Internet Addiction For Life,Caesar Lincoln,10.00,4.10,2014,2,46,English,1
+1229,Power Reference Manual for the Electrical and Computer PE Exam,John A. Camara,13.00,4.08,2010,2,792,English,2
+1230,Game Production Handbook 2/E(w CD  ROM) (Computer Science)(Game Development),Heather Maxwell Chandler,20.00,4.05,2008,1,500,English,0
+1231,Hacking: Beginner's Guide for Computer Hacking Mobile Hacking and Penetrate Tests Book,Bill  Adams,19.00,3.21,2015,2,29,English,2
+1237,Hacking Secret Ciphers with Python: A Beginner's Guide to Cryptography and Computer Programming with Python,Al Sweigart ,84.00,4.06,2013,3,438,English,7
+1238,Computer Simulated Experiments for Electric Circuits Using Electronics Workbench Multisim,Richard H. Berube,9.00,3.56,2003,1,304,English,0
+1239,Computer That Said Steal Me,Elizabeth Levy ,23.00,3.83,1983,4,126,English,5
+1240,Schaum's Outline Handbook Of Computer Algorithms,Ramon Mata  Toledo ,5.00,4.60,2001,1,304,English,0
+1241,Understanding Computers,Grace Murray Hopper ,4.00,4.50,1987,6,578,English,0
+1242,Ok Computer: Radiohead : Guitar Tablature Vocal,Radiohead,29.00,4.59,1997,3,84,English,0
+1243,Computer Systems Organization & Architecture,CARPINELLI,5.00,3.00,2000,1,584,English,1
+1245,Scene of the Cybercrime: Computer Forensics Handbook,Debra Littlejohn Shinder ,20.00,3.65,2002,6,512,English,2
+1248,Corporate Computer and Network Security,Raymond R. Panko,18.00,3.67,2003,6,544,English,0
+1251,Character Design Studio Create Cutting Edge Cartoon Figures for Comicbooks Computer Games and Graphic Novels,Chris Patmore,10.00,3.80,2005,1,0,English,0
+1254,Nikola Tesla: Guided Weapons And Computer Technology (Tesla Presents Series Pt. 3),Nikola Tesla,4.00,4.25,1998,2,241,English,0
+1257,The Dream Machine: Exploring the Computer Age,John Palfreman ,10.00,4.20,1991,3,208,English,3
+1260,Incident Response: Investigating Computer Crime,Chris Prosise ,20.00,3.90,2001,2,509,English,1
+1262,Computers Are Your Future: Introductory,Catherine LaBerta,14.00,3.57,2010,3,448,English,3
+1263,The Voice in the Machine: Building Computers That Understand Speech,Roberto Pieraccini ,17.00,4.12,2012,6,325,English,3
+1264,Alan Turing and his Contemporaries: Building the world's first computers,Simon Lavington (Editor) ,14.00,3.79,2012,6,126,English,4
+1266,Computers Are Your Future: Introductory,Catherine LaBerta,14.00,3.57,2010,3,448,English,3
+1267,Biography for Kids: Steve Jobs for Kids! The Incredible Story of the Amazing Inventor Who Changed the History of Computers Phones and Animated Movies Forever!: Biographies for Children,Ian D. Fraser,13.00,4.54,2014,1,65,English,2
+1270,Cisco CCENT Networking For Beginners: The Ultimate Beginners Crash Course to Learn Cisco Quickly And Easily,Adam Vardy,27.00,3.59,2015,3,138,English,1
+1271,Enchanted Looms: Conscious Networks in Brains and Computers,Rodney M.J. Cotterill,12.00,3.75,1998,2,524,English,1
+1272,Ada Byron Lovelace: The Lady and the Computer,Mary Dodson Wade,7.00,3.57,1994,2,128,English,3
+1273,The Computer Revolution in Philosophy: Philosophy Science and Models of Mind,Aaron Sloman,4.00,4.00,1978,4,304,English,0
+1274,Practical Computer Vision with SimpleCV: The Simple Way to Make Technology See,Kurt Demaagd ,17.00,3.88,2012,6,254,English,2
+1275,Principles of Computer Architecture,Miles Murdocca ,16.00,3.56,1999,2,553,English,0
+1277,Information Ages: Literacy Numeracy and the Computer Revolution,Michael E. Hobart,22.00,3.50,1998,2,320,English,1
+1280,Memoirs of a Computer Pioneer,Maurice Wilkes ,7.00,3.57,1985,1,240,English,1
+1281,Approaching Zero: Data Crime and the Computer Underworld,Paul Mungo ,17.00,3.65,1992,3,242,English,1
+1282,Formal Languages and Their Relation to Automata (Addison  Wesley series in computer science and information processing),J.E. Hopcroft ,5.00,3.40,1969,1,288,English,0
+1285,Language and Computers,Markus Dickinson ,24.00,3.75,2012,9,232,English,2
+1286,Reboot Your F*cking Computer,Joe Reiter ,17.00,4.53,2013,2,221,English,2
+1288,Computer  Mediated Communication: Human  To  Human Communication Across the Internet,Susan B. Barnes,8.00,3.50,2002,1,347,English,3
+1289,Minds Brains Computers: An Historical Introduction to the Foundations of Cognitive Science,Robert Harnish (Contributor) ,11.00,4.55,2001,1,468,English,1
+1292,Computer Mediated Communication,Laura Lengel ,25.00,3.32,2004,5,272,English,1
+1294,Computer Tricks for Scrapbooking 2,Jessica Sprague,27.00,4.78,2008,1,162,English,6
+1297,Che cosa vogliono gli algoritmi: L'immaginazione nell'era dei computer,Ed Finn ,228.00,3.68,2017,11,256,Italian,35
+1298,Game Cultures: Computer Games as New Media,Jon Dovey ,20.00,3.45,2006,4,186,English,2
+1301,Elements of Computer Music,F. Richard Moore,15.00,4.00,1990,1,576,English,0
+1302,Gears from the Greeks: The Antikythera Mechanism  A Calendar Computer from CA. 80 B.C.,Derek John de Solla Price,7.00,4.43,1974,2,72,English,1
+1304,Evolutionary Design by Computers,Peter J. Bentley (Editor),10.00,3.40,1999,4,446,English,0
+1305,Systems Experts and Computers: The Systems Approach in Management and Engineering World War II and After,Agatha C. Hughes (Editor) ,7.00,4.57,2011,3,513,English,0
+1308,Computer Science with Mathematica: Theory and Practice for Science Mathematics and Engineering,Roman E. Maeder,13.00,4.15,2000,2,412,English,0
+1310,Bill Gates: Computer King,Josepha Sherman,9.00,3.89,2000,3,48,English,3
+1311,Computer Science Made Simple: Learn how hardware and software work   and how to make them work for you!,Spraul V. Anton,13.00,3.92,2010,1,192,English,0
+1314,Computer Crunch! (The Secret World of Alex Mack 24),Patricia Barnes  Svarney ,13.00,3.62,1998,1,132,English,0
+1315,Zen & The Art Of The Macintosh: Discoveries On The Path To Computer Enlightment,Michael Green,17.00,4.29,1986,2,238,English,2
+1317,Computer Tricks for Scrapbooking 2,Jessica Sprague,27.00,4.78,2008,1,162,English,6
+1319,Computer Vision,George Stockman,17.00,3.12,2001,1,608,English,0
+1320,A Short Course On Computer Viruses,Frederick B. Cohen,7.00,3.86,1994,5,288,English,3
+1321,Teaching and Researching Computer  Assisted Language Learning,Ken Beatty,13.00,4.31,2003,3,259,English,2
+1322,Computer Clues (Pee Wee Scouts 36),Judy Delton,15.00,3.40,1998,6,128,English,0
+1323,Discrete Mathematics in Computer Science,Donald F. Stanat,7.00,4.14,1977,2,850,English,0
+1324,Computer Control of Machines and Processes,John G. Bollinger,3.00,4.00,1988,1,513,English,0
+1325,CISSP For Dummies (For Dummies,Lawrence C. Miller ,154.00,3.77,2002,25,432,English,9
+1326,Evolutionary Optimization Algorithms: Biologically Inspired and Population  Based Approaches to Computer Intelligence,Dan Simon (Contributor),4.00,4.25,2013,5,742,English,0
+1327,Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers,Barry Wilkinson ,14.00,3.71,1998,6,496,English,0
+1329,Feynman And Computation: Exploring The Limits Of Computers,Anthony J.G. Hey (Editor),13.00,4.46,1998,3,464,English,1
+1331,The Essence of Human  Computer Interaction,Christine Faulkner ,9.00,3.44,1997,1,216,English,2
+1332,Game Art: The Graphic Art of Computer Games,Leo Hartas ,17.00,2.76,2003,1,192,English,2
+1333,Artistic Photo Quilts: Create Stunning Quilts with Your Camera Computer & Cloth,Charlotte Ziebarth,21.00,3.95,2009,3,95,English,1
+1334,Advanced Computer Architecture and Parallel Processing,Hesham El  Rewini ,6.00,3.00,2005,6,288,English,2
+1336,Bill Gates: Computer King,Josepha Sherman,9.00,3.89,2000,3,48,English,3
+1340,Categories and Computer Science,R.F.C. Walters,3.00,4.33,1992,4,180,English,0
+1341,Web Technologies: A Computer Science Perspective,Jeffrey C. Jackson,12.00,3.75,2006,4,574,English,0
+1342,Mixing and Mastering in the Box: The Guide to Making Great Mixes and Final Masters on Your Computer,Steve Savage,14.00,3.79,2014,5,318,English,1
+1344,MacBook For Dummies (For Dummies,Mark L. Chambers,145.00,3.68,2006,43,432,English,5
+1346,Storyboarding: Turning Script to Motion,Stephanie Torta ,11.00,4.09,2011,3,350,English,3
+1349,The MMIX Supplement: Supplement to the Art of Computer Programming Volumes 1 2 3 by Donald E. Knuth,Martin Ruckert,9.00,4.44,2015,4,224,English,0
+1350,Computer Vision,George Stockman,17.00,3.12,2001,1,608,English,0
+1351,A Short Course On Computer Viruses,Frederick B. Cohen,7.00,3.86,1994,5,288,English,3
+1352,Teaching and Researching Computer  Assisted Language Learning,Ken Beatty,13.00,4.31,2003,3,259,English,2
+1354,Internet Security: Online Protection From Computer Hacking,James Cloud,8.00,3.12,2015,2,73,English,2
+1358,Computer Graphics,F.S. Hill Jr.,5.00,4.20,1990,1,754,English,0
+1359,A Computer Perspective: Background to the Computer Age New Edition,Charles Eames ,12.00,3.67,2011,3,176,English,1
+1362,Wild Duck: Empirische Philosophie der Mensch  Computer  Vernetzung,Gunter Dueck,26.00,4.50,2000,7,438,German,1
+1365,The Renaissance Computer: Knowledge Technology in the First Age of Print,Neil Rhodes (Editor),12.00,4.00,2000,9,224,English,3
+1366,Introductory Circuits for Electrical and Computer Engineering,James W. Nilsson ,10.00,4.00,2001,4,555,English,1
+1368,Chaos Fractals and Dynamics: Computer Experiments in Mathematics,Robert L. Devaney,16.00,4.00,1989,2,16,English,0
+1369,The Computer Contradictionary,Stan Kelly  Bootle,13.00,4.08,1995,3,255,English,0
+1372,Computer Incident Response and Forensics Team Management: Conducting a Successful Incident Response,Leighton Johnson,6.00,4.33,2013,3,352,English,0
+1373,Computer Network,Madhulika Jain,5.00,4.20,2002,1,360,English,1
+1375,The Complete Beginner's Guide to Genealogy the Internet and Your Genealogy Computer Program,Karen Clifford,19.00,3.79,2000,2,364,English,4
+1376,Encase Computer Forensics   The Official Ence: Encase Certified Examiner Study Guide,Steve Bunting,20.00,3.95,2011,1,752,English,1
+1379,Theory and Practice of Compiler Writing (McGraw  Hill Series in Computer Organization and Architecture),Jean  Paul Tremblay ,9.00,3.11,1985,2,816,English,0
+1383,Multimodal Composition: Resources for Teachers,Cynthia L. Selfe,21.00,4.00,2007,1,270,English,4
+1384,Succeeding with Technology: Computer System Concepts for Real Life,Ken Baldauf ,26.00,2.92,2004,10,697,English,2
+1385,Diario di un computer forenser,Andrea Ghirardini,24.00,3.08,2010,2,16,Italian,3
+1386,Designing with Blends: Conceptual Foundations of Human  Computer Interaction and Software Engineering,Manuel Imaz ,2.00,3.50,2006,2,229,English,0
+1387,Computer Security and Penetration Testing,Alfred Basta,21.00,4.10,2007,4,414,English,0
+1390,The Semiotic Engineering of Human  Computer Interaction,Clarisse Sieckenius de Souza,12.00,3.83,2005,4,283,English,0
+1391,Scrum For Dummies (For Dummies,Mark C. Layton ,72.00,3.74,2014,16,384,English,9
+1392,Iron Curtain Graphics: Eastern European Design Created without Computers,Atelierul De Grafică (Editor),13.00,3.69,2012,1,208,English,2
+1393,The History Of Computers,Les Freed ,6.00,4.00,1995,1,153,English,1
+1394,Philosophy and Computer Science,Timothy R. Colburn,4.00,4.25,1999,5,224,English,0
+1397,Computer Hacking: The Essential Hacking Guide for Beginners ( Hacking How to Hack Hacking 101 Hacking for dummies Hacking Guide internet skills ... guide how to hack hacking free guide),Matt Benton,10.00,3.50,2015,2,28,English,1
+1398,Computers in business management: An introduction (The Irwin series in information and decision sciences),James A. O'Brien,18.00,3.78,1975,4,497,English,0
+1401,Dropbox for Beginners: How to Use Dropbox and Get the Most Out of It on Your Computer Phone or Tablet,Vlad Gemstone,18.00,3.17,2015,1,22,English,0
+1402,Dictionary of Computer and Internet Terms,Douglas Downing ,33.00,4.03,1983,13,592,English,1
+1406,The Subtlety of Sameness: A Theory and Computer Model of Analogy  Making,Robert M. French ,6.00,3.33,1995,3,206,English,0
+1407,Mathematical Foundations of Computer Science,Shahnaz Bathul,4.00,4.00,2010,3,397,English,1
+1408,Making Money with Your Computer at Home,Paul Edwards ,22.00,2.77,1993,5,350,English,2
+1409,Writing Space: The Computer Hypertext and the History of Writing,J. David Bolter,8.00,3.88,1990,1,258,English,1
+1410,Kilobyte Couture: Geek Chic Jewelry to Make from Easy  to  Find Computer Components,Brittany Forks ,16.00,3.50,2009,1,128,English,7
+1413,The 80X86 IBM & Compatible Computers: Assembly Language Programming on the IBM Pc PS and Compatibles,Muhammad Ali Mazidi ,27.00,3.96,1993,1,352,English,1
+1414,Notes on Introductory Combinatorics (Progress in Computer Science and Applied Logic,George Pólya ,8.00,3.88,1983,4,212,English,0
+1415,Dropbox for Beginners: How to Use Dropbox and Get the Most Out of It on Your Computer Phone or Tablet,Vlad Gemstone,18.00,3.17,2015,1,22,English,0
+1416,Dictionary of Computer and Internet Terms,Douglas Downing ,33.00,4.03,1983,13,592,English,1
+1418,Computer Networking with Internet Protocols and Technology,William Stallings,3.00,3.00,2003,3,656,English,1
+1419,Computer Arithmetic: Principles Architecture and Design,Kai Hwang,17.00,4.06,1979,1,423,English,0
+1421,A Practical Introduction to Computer Vision with Opencv,Kenneth Dawson  Howe,12.00,4.00,2014,6,217,English,1
+1424,A Practical Introduction to Computer Vision with Opencv,Kenneth Dawson  Howe,12.00,4.00,2014,6,217,English,1
+1426,Aqa a Level Computer Science,Bob Reeves,9.00,4.33,2015,2,448,English,0
+1427,Iznogoud and the Magic Computer (Iznogoud 6),René Goscinny ,131.00,3.73,1970,12,48,English,5
+1429,Mathematica Computer Manual to accompany Advanced Engineering Mathematics 8th Edition,Erwin Kreyszig ,1.00,5.00,2001,1,336,English,2
+1432,Logics for Computer Science,Arindama Singh,2.00,4.50,2004,1,369,English,1
+1438,Computer Vision,Dana H. Ballard ,9.00,4.22,1982,1,523,English,1
+1439,Computer Logic Design,M. Morris Mano,14.00,3.93,1972,1,450,English,0
+1440,Structural Dynamics: An Introduction to Computer Methods,Roy R. Craig,4.00,4.00,1981,3,544,English,1
+1441,Fallen Angels/Go Tell the Spartans/Prince of Sparta/Computer Disk,Larry Niven,4.00,3.25,1993,1,0,English,0
+1442,How Computers Play Chess / David Levy and Monty Newborn,Monty Newborn ,16.00,4.38,1990,3,246,English,2
+1443,Managing Successful Programmes,Central Computer & Telecommunications Agency,1.00,4.00,1999,1,169,English,0
+1447,150 Ways to Make Money Online: Learn How to Make Hard Cash with Your Computer from Home,Timo Hofstee ,10.00,3.30,2014,2,85,English,1
+1448,Screen Relations: The Limits of Computer  Mediated Psychoanalysis and Psychotherapy,Gillian Isaacs Russell ,6.00,4.50,2015,6,224,English,2
+1450,Mathematica Computer Manual to accompany Advanced Engineering Mathematics 8th Edition,Erwin Kreyszig ,1.00,5.00,2001,1,336,English,2
+1452,Keeping the U.S. Computer Industry Competitive: Systems Integration,Computer Science and Telecommunication Board ,0.00,0.00,1992,3,106,English,0
+1453,Learn Computer Basics in 7 Days! An eGuide For The Beginner With Video Tutorials (Learn in 7 Days Series 1),Don Alsup ,7.00,4.43,2013,1,36,English,1
+1454,Concepts Ontologies and Knowledge Representation,Grega Jakus ,15.00,4.40,2013,4,70,English,0
+1455,The Computer Consultant's Guide,Janet Ruhl,19.00,3.11,1994,6,90,English,3
+1456,Datapoint: The Lost Story of the Texans Who Invented the Personal Computer Revolution,Lamont Wood,15.00,3.93,2012,2,330,English,2
+1457,Foundations of Programming Languages,Kent D. Lee,5.00,3.80,2015,5,354,English,1
+1458,The Architecture of Computer Hardware and System Software: An Information Technology Approach 5th Edition,Irv Englander,13.00,3.31,2014,1,696,English,0
+1459,Computerised You: How Wearable Technology Will Turn Us Into Computers,Shane Richmond ,16.00,3.50,2013,3,48,English,0
+1460,The Art of Maya: An Introduction to 3D Computer Graphics,Autodesk Maya Press,11.00,3.91,2007,1,256,English,0
+1461,Modern Well Test Analysis: A Computer  Aided Approach,Roland N. Horne,6.00,4.50,1995,2,257,English,0
+1462,The Soul in the Computer: The Story of a Corporate Revolutionary,Barbara Waugh ,9.00,4.44,2001,1,272,English,1
+1463,Computer Crime Investigation and the Law,Chuck Easttom ,15.00,3.87,2010,4,499,English,3
+1468,The Computer Incident Response Planning Handbook: Executable Plans for Protecting Information at Risk,N.K. McCarthy,10.00,3.90,2012,5,240,English,0
+1469,The Seductive Computer: Why IT Systems Always Fail,Derek Partridge,4.00,3.75,2010,3,323,English,3
+1470,Schaum's Introduction to Computer Science,Ramon Mata  Toledo,6.00,3.67,1999,1,240,English,0
+1472,Articles on Hacking (Computer Security) Including: Script Kiddie Hacktivism Hacker Manifesto Tiger Team the Hacker's Handbook Great Hacker War Timeline of Computer Security Hacker History the Cuckoo's Egg (Book) White Hat,Hephaestus Books,3.00,3.67,2011,1,234,English,0
+1473,Connecting with Computer Science,Greg Anderson ,10.00,4.30,2010,3,672,English,0
+1476,Going to War: Creating Computer Wargames,Jason Darby,15.00,3.73,2008,4,400,English,0
+1477,The Algorithmic Composer (Computer Music and Digital Audio Series),David Cope,4.00,3.75,2000,1,302,English,0
+1482,Computer Vision,Dana H. Ballard ,9.00,4.22,1982,1,523,English,1
+1483,Operation of Wastewater Treatment Plants Volume 1,Office of Water Programs College of Engineering and Computer Science California State University ,5.00,3.60,2004,1,541,English,0
+1484,Exploring Computer Science with Scheme,Oliver Grillmeyer,7.00,4.29,1997,4,582,English,0
+1485,Computer Vision Metrics: Survey Taxonomy and Analysis,Scott Krig,8.00,4.12,2014,3,510,English,0
+1486,Computer Forensics: Cybercriminals Laws and Evidence,Marie  Helen Maras,13.00,3.46,2011,6,372,English,1
+1487,Computer Hardware,Barry Blundell,5.00,4.60,2008,1,217,English,0
+1488,Internet Addiction: How To Stop Wasting Your Time In Front Of Your Computer And Start To Live A More Fulfilled Life The Real World,Jonathan Orden,11.00,3.27,2014,1,48,English,1
+1490,A Very Personal Computer,Justine Rendal,16.00,4.38,1995,2,224,English,3
+1492,Practical Computer Literacy: Internet and Core Computing Certification (Practical,June Jamrich Parsons ,4.00,2.50,2009,1,488,English,1
+1493,Automotive Computer Codes: Electronic Engine Management Systems,John Harold Haynes,11.00,3.91,2001,1,320,English,1
+1494,Internet Addiction: How To Stop Wasting Your Time In Front Of Your Computer And Start To Live A More Fulfilled Life The Real World,Jonathan Orden,11.00,3.27,2014,1,48,English,1
+1496,Computers Ethics and Society,M. David Ermann (Editor),16.00,3.88,2002,1,256,English,2
+1497,Designing Efficient Algorithms for Parallel Computers,Michael J. Quinn,4.00,4.00,1987,1,288,English,1
+1498,The Human  Computer Interaction Handbook: Fundamentals Evolving Technologies and Emerging Applications Third Editiion,Juliele Jacko (Editor),6.00,4.17,2002,1,1312,English,0
+1499,Gödel e Turing. La nascita del computer e la società dell'informazione,Piergiorgio Odifreddi,10.00,3.30,2012,2,96,Italian,0
+1502,Upgrading and Fixing Computers Do  it  Yourself For Dummies,Andy Rathbone,47.00,3.40,1993,20,340,English,2
+1503,Computer Arts Presents: The Self  Promo Handbook,Computer arts,2.00,4.00,2014,1,98,English,0
+1504,Computer Security Fundamentals,Chuck Easttom ,17.00,3.18,2005,4,344,English,2
+1505,Computational Geometry and Computer Graphics in C++,Michael J. Laszlo,6.00,4.00,1995,1,266,English,0
+1507,Fundamentals of Discrete Math for Computer Science: A Problem  Solving Primer,Tom Jenkyns ,6.00,3.33,2012,5,416,English,0
+1510,Upgrading and Fixing Computers Do  it  Yourself For Dummies,Andy Rathbone,47.00,3.40,1993,20,340,English,2
+1511,Principles of Programming: Computer programming for kids and beginners,Joseph Dwyer,5.00,1.60,2013,1,144,English,1
+1513,Computer Networking Essentials,Debra Shinder,9.00,3.89,1901,1,735,English,1
+1514,New Perspectives on Computer Concepts 2011: Comprehensive,June Jamrich Parsons ,13.00,3.31,2010,2,872,English,1
+1515,Parallel Computer Organization and Design,Michel Dubois,8.00,3.38,2012,4,562,English,0
+1517,Introduction to Computer Numerical Control,James Valentino ,4.00,4.50,1999,2,560,English,2
+1519,Infotech: for Computer Users,Santiago Remacha Esteras,1.00,4.00,1996,2,160,English,0
+1520,Computer Forensics: Investigating Data and Image Files (Ec  Council Press Series: Computer Forensics),EC  Council,7.00,3.29,2009,2,224,English,0
+1523,Introduction To Numerical Analysis Using MATLAB with CD  ROM (Mathematics) (Computer Science),Rizwan Butt,5.00,4.40,2007,1,750,English,0
+1524,Automation Production Systems and Computer  Integrated Manufacturing by Groover Mikell P. ISBN 9780132393218  Study Guide,Cram101 Textbook Reviews,2.00,2.50,2009,1,128,English,1
+1526,The Bronze Age Computer Disc,Alan Butler,7.00,3.86,1997,2,190,English,1
+1527,Data Communications Computer Networks and Open Systems,Fred Halsall,8.00,3.75,1992,1,772,English,0
+1528,The First Information War: The Story of Communications Computers and Intelligence Systems in the Persian Gulf War,Alan D. Campen,6.00,3.67,1992,1,195,English,0
+1529,Haynes Build Your Own Computer. Kyle MacRae & Gary Marshall,Kyle MacRae,15.00,4.07,2012,1,176,English,0
+1530,Delete: A Design History of Computer Vapourware,Paul Atkinson,9.00,4.00,2013,2,256,English,1
+1532,Analysis of Computer and Communication Networks,Fayez Gebali,5.00,3.80,2008,3,669,English,1
+1534,Managing Successful Programmes,Central Computer & Telecommunications Agency,1.00,4.00,1999,1,169,English,0
+1538,Time Bomb 2000: What the Year 2000 Computer Crisis Means to You!,Edward Yourdon ,23.00,2.96,1997,3,416,English,4
